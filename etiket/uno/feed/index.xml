@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>uno &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/uno/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>uno &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blogger Sofrası</title>
+		<link>/2008/11/24/blogger-sofrasi/</link>
+		<comments>/2008/11/24/blogger-sofrasi/#comments</comments>
+		<pubDate>Mon, 24 Nov 2008 18:36:23 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA["blogger sofrası"]]></category>
+		<category><![CDATA[kanepe]]></category>
+		<category><![CDATA[uno]]></category>
+
+		<guid isPermaLink="false">/?p=367</guid>
+		<description><![CDATA[Geçtiğimiz pazar günü Uno&#8217;nun daveti üzerine Marmara Yelken Kulübü&#8217;nde Blogger Sofrası&#8216;na konuk olduk. Yemek ve pazarlama blogları yazarlarıyla beraber hoş sohbetler eşliğinde keyifli bir gün geçirdik. Bu toplantıda Uno&#8217;nun daha önce hiç denemediğim çeşitleriyle ilgili fikirler edindim. Alman ekmeğinin nasıl bir ekmek olduğuna dair hiçbir fikrim yoktu. Konuşmaların üzerine ikram edilen Alman ekmeğini orda hemen &#8230; <p class="link-more"><a href="/2008/11/24/blogger-sofrasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Blogger Sofrası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<div style="float:right"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3056797656/"><img class="alignright" style="margin: 10px;" src="http://farm4.static.flickr.com/3014/3056797656_07858a84b3_m.jpg" alt="" width="143" height="216" /></a></div>
+<p>Geçtiğimiz pazar günü Uno&#8217;nun daveti üzerine Marmara Yelken Kulübü&#8217;nde <a href="http://bloggersofrasi.blogspot.com/">Blogger Sofrası</a>&#8216;na konuk olduk. Yemek ve pazarlama blogları yazarlarıyla beraber hoş sohbetler eşliğinde keyifli bir gün geçirdik. Bu toplantıda Uno&#8217;nun daha önce hiç denemediğim çeşitleriyle ilgili fikirler edindim. Alman ekmeğinin nasıl bir ekmek olduğuna dair hiçbir fikrim yoktu. Konuşmaların üzerine ikram edilen Alman ekmeğini orda hemen kaymak ve reçel sürerek denedim. Benim çok hoşuma gitti ve bugün kahvaltıya gelen annem ve babam için de Alman ekmeğinin üzerine lor peyniri ve reçel sürerek kanepeler hazırladım. Bu güzel lezzeti keşfetmemi sağladığı için Uno&#8217;ya teşekkürler!<br />
+Uno ile maceralarım devam edecek, yaşadıkça sizlerle de paylaşacağım.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3055949167/"><img class="aligncenter" src="http://farm4.static.flickr.com/3219/3055949167_37a8fa329c.jpg" alt="" width="375" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/24/blogger-sofrasi/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

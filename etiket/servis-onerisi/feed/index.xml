@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>servis önerisi &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/servis-onerisi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>servis önerisi &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>20. gün &#8211; İftar Menüsü</title>
+		<link>/2010/08/31/20-gun-iftar-menusu/</link>
+		<comments>/2010/08/31/20-gun-iftar-menusu/#comments</comments>
+		<pubDate>Tue, 31 Aug 2010 11:46:56 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Menüler]]></category>
+		<category><![CDATA[iftar]]></category>
+		<category><![CDATA[menü]]></category>
+		<category><![CDATA[servis önerisi]]></category>
+		<category><![CDATA[sofra]]></category>
+
+		<guid isPermaLink="false">/?p=717</guid>
+		<description><![CDATA[Dünkü iftar davetim için hazırladıklarım şöyle; * süzme mercimek çorbası * fıstıklı pilav * salçalı biftek &#38; patates püresi * mantarlı sütlü börek * yeşil salata * sakızlı güllaç Sofrada bu aralar favorimiz olan beyaz peynir, maydonoz ve taze nane üçlüsü de vardı. Aslında taze reyhan da olsa daha da güzel olacak. Maraş&#8217;ta eşimin halasında &#8230; <p class="link-more"><a href="/2010/08/31/20-gun-iftar-menusu/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "20. gün &#8211; İftar Menüsü"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4945007646/"><img class="aligncenter" src="http://farm5.static.flickr.com/4095/4945007646_5d085ecc46.jpg" alt="" width="333" height="500" /></a></p>
+<p>Dünkü iftar davetim için hazırladıklarım şöyle;</p>
+<p>* süzme mercimek çorbası<br />
+* fıstıklı pilav<br />
+* salçalı biftek &amp; patates püresi<br />
+* mantarlı sütlü börek<br />
+* yeşil salata<br />
+* sakızlı güllaç</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4944424355/"><img class="aligncenter" src="http://farm5.static.flickr.com/4080/4944424355_911a241f15.jpg" alt="" width="333" height="500" /></a></p>
+<p>Sofrada bu aralar favorimiz olan beyaz peynir, maydonoz ve taze nane üçlüsü de vardı. Aslında taze reyhan da olsa daha da güzel olacak. Maraş&#8217;ta eşimin halasında çerkez ekmeği ile beraber, peyniri yeşillikler eşliğinde yediğimizden beri soframızdan eksik etmiyoruz. Sıcacık ramazan pidesiyle de çok iyi oluyor. Bu basit ama lezzetli servis önerisini de paylaşayım istedim.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4944426527/"><img class="aligncenter" src="http://farm5.static.flickr.com/4114/4944426527_073301cec7.jpg" alt="" width="333" height="500" /></a></p>
+<p>Ayrıca yeşil salataya da beyaz peynir serptikten sonra üzerine susam kavurup ekledim. Bu şekilde de nefis oluyor, denemenizi tavsiye ederim.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/08/31/20-gun-iftar-menusu/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

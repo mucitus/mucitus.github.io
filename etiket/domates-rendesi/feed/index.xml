@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>domates rendesi &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/domates-rendesi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>domates rendesi &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>25. gün &#8211; Sirkeli Patlıcan</title>
+		<link>/2010/09/05/25-gun-sirkeli-patlican/</link>
+		<comments>/2010/09/05/25-gun-sirkeli-patlican/#respond</comments>
+		<pubDate>Sat, 04 Sep 2010 22:57:19 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Zeytinyağlı Yemekler]]></category>
+		<category><![CDATA[domates rendesi]]></category>
+		<category><![CDATA[patlıcan]]></category>
+		<category><![CDATA[sarımsak]]></category>
+		<category><![CDATA[sirke]]></category>
+
+		<guid isPermaLink="false">/?p=729</guid>
+		<description><![CDATA[Bu tarifi Müge&#8216;nin blogunda gördüğümden beri denemek istiyordum. Cuma günü son iftar davetimde deneyebildim. Çok hafif ve lezzetli bir zeytinyağlı yemek oldu. Özellikle patlıcanların közleme veya kızartma yapılmadan kullanılması en sevdiğim kısmı oldu bu yemeğin 🙂 Yalnız sirke miktarı benim için fazla oldu. Birdahaki sefere mutlaka biraz daha az sirke ile denemek istiyorum. MALZEMELER * &#8230; <p class="link-more"><a href="/2010/09/05/25-gun-sirkeli-patlican/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "25. gün &#8211; Sirkeli Patlıcan"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4955061039/"><img class="aligncenter" src="http://farm5.static.flickr.com/4089/4955061039_5de44a83f8.jpg" alt="" width="333" height="500" /></a></p>
+<p>Bu tarifi <a href="http://hunerlibayanlar.blogspot.com/2010/08/sirkeli-patlcan.html">Müge</a>&#8216;nin blogunda gördüğümden beri denemek istiyordum. Cuma günü son iftar davetimde deneyebildim. Çok hafif ve lezzetli bir zeytinyağlı yemek oldu. Özellikle patlıcanların közleme veya kızartma yapılmadan kullanılması en sevdiğim kısmı oldu bu yemeğin <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Yalnız sirke miktarı benim için fazla oldu. Birdahaki sefere mutlaka biraz daha az sirke ile denemek istiyorum.</p>
+<p><strong>MALZEMELER</strong></p>
+<p>* 5-6 (ince-uzun) kemer patlıcan<br />
+* 2 su bardağı domates rendesi<br />
+* 1/2 limon<br />
+* 8-10 diş sarımsak<br />
+* 6-7 yemek kaşığı elma sirkesi<br />
+* 4 yemek kaşığı zeytinyağ<br />
+* 2 çay kaşığı şeker<br />
+* tuz, karabiber<br />
+* süslemek için; maydonoz</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>Patlıcanlar soyulup, baş kısmından bir cm.lik kısmı kesilmeden uzunlamasına dörde bölünür. Kararmaması için patlıcanlar kesildikçe limonlu suya atılır. Daha sonra yayvan bir tencereye dizilir.</p>
+<p>Tuz, karabiber, şeker ve zeytinyağ domates rendesine ilave edilerek tenceredeki patlıcanların üzerlerine yayılır.<br />
+Kaynayana kadar orta ateşte, kaynadıktan sonra da 40-45 dakika pişirilir.</p>
+<p>Sirke ve ezilmiş sarımsaklar karıştırılıp pişmiş olan patlıcanların üzerine dökülür ve 5 dakika daha pişirilir.</p>
+<p>Yemek tenceresinde soğutulduktan sonra maydonoz ile süslenerek servis edilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/05/25-gun-sirkeli-patlican/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

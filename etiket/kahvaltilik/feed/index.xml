@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kahvaltılık &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kahvaltilik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kahvaltılık &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lor Salatası</title>
+		<link>/2011/01/16/lor-salatasi/</link>
+		<comments>/2011/01/16/lor-salatasi/#comments</comments>
+		<pubDate>Sun, 16 Jan 2011 13:04:31 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Menüler]]></category>
+		<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[ceviz]]></category>
+		<category><![CDATA[kahvaltı]]></category>
+		<category><![CDATA[kahvaltılık]]></category>
+		<category><![CDATA[lor]]></category>
+		<category><![CDATA[lor peynir]]></category>
+		<category><![CDATA[menü]]></category>
+		<category><![CDATA[salata]]></category>
+		<category><![CDATA[sofra]]></category>
+
+		<guid isPermaLink="false">/?p=813</guid>
+		<description><![CDATA[Elimde anneme son gidişimde aldığım tarifler olmasına rağmen, bir değişiklik (!) yapıp site sahibi olarak kendi yaptığım bir tarifi ekliyorum. Bu sofranın yeni tarifi geçen gün bahsettiğim lor salatası.. O zaman fotoğrafı olmadığı için eklememiştim. Geçtiğimiz haftasonu kahvaltı için yapınca unutmadan fotoğrafını çektim. MAZLEMELER 3- 4 adet yeşilbiber 250 gr. lor peynir 1/2 bardak çekilmiş &#8230; <p class="link-more"><a href="/2011/01/16/lor-salatasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Lor Salatası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5359524641/"><img class="aligncenter" src="http://farm6.static.flickr.com/5162/5359524641_e1dcf0f45a.jpg" alt="" width="333" height="500" /></a></p>
+<p>Elimde anneme son gidişimde aldığım tarifler olmasına rağmen, bir değişiklik (!) yapıp site sahibi olarak kendi yaptığım bir tarifi ekliyorum. Bu sofranın yeni tarifi geçen gün <a href="/2010/12/28/ayva-marmelati/">bahsettiğim</a> lor salatası.. O zaman fotoğrafı olmadığı için eklememiştim. Geçtiğimiz haftasonu kahvaltı için yapınca unutmadan fotoğrafını çektim.</p>
+<p><strong>MAZLEMELER</strong></p>
+<p>3- 4 adet yeşilbiber<br />
+250 gr. lor peynir<br />
+1/2 bardak çekilmiş ceviz<br />
+1/2 demet maydanoz<br />
+1/2 çay kaşığı  kimyon<br />
+1 çay kaşığı pulbiber<br />
+3-4 dal yeşil soğan (ben kullanmadım)<br />
+1/2 çay bardağı zeytinyağı</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>Doğranan soğanlar ve yeşil biberler zeytinyağda kavrulur. Sonra içine lor eklenip karıştırılır ve ocağın altı kapatılır.<br />
+Kıyılmış maydonoz, ceviz, baharatlar ve gerekiyorsa tuz lora eklenip karışıtırılır. Servis tabağına alınıp servis yapılır.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5360138296/"><img class="aligncenter" src="http://farm6.static.flickr.com/5165/5360138296_44ffb7b269.jpg" alt="" width="333" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/16/lor-salatasi/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

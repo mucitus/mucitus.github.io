@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ramazan özel &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/ramazan-ozel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>ramazan özel &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yemekzevki.net Haber 7&#039;de!</title>
+		<link>/2008/09/02/yemekzevkinet-haber-7de/</link>
+		<comments>/2008/09/02/yemekzevkinet-haber-7de/#comments</comments>
+		<pubDate>Tue, 02 Sep 2008 19:25:59 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[dobişko]]></category>
+		<category><![CDATA[haber7]]></category>
+		<category><![CDATA[ramazan]]></category>
+		<category><![CDATA[ramazan özel]]></category>
+
+		<guid isPermaLink="false">/?p=292</guid>
+		<description><![CDATA[Haber 7 sitesinin bu seneki Ramazan Özel sayfasında Yemek Zevki olarak ben de tariflerimle yer alıyorum. Ramazan Özel sayfasında Ramazan ve oruçla ilgili bilgiler, hadisler, püf noktaları gibi birçok konu hakkında bilgi bulabilirsiniz. Ayrıca iftar için gidilebilecek mekan önerileri de Dobişko tarafından sağlanıyor.]]></description>
+				<content:encoded><![CDATA[<p>Haber 7 sitesinin bu seneki <a href="http://www.haber7.com/ramazan/">Ramazan Özel</a> sayfasında Yemek Zevki olarak ben de tariflerimle yer alıyorum. Ramazan Özel sayfasında Ramazan ve oruçla ilgili bilgiler, hadisler, püf noktaları gibi birçok konu hakkında bilgi bulabilirsiniz. Ayrıca iftar için gidilebilecek mekan önerileri de <a href="http://www.dobisko.com/">Dobişko</a> tarafından sağlanıyor.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/2822627452/"><img class="aligncenter" src="http://farm4.static.flickr.com/3009/2822627452_0c7079c3e4.jpg" alt="" width="500" height="391" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/02/yemekzevkinet-haber-7de/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

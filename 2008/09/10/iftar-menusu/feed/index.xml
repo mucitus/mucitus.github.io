@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>İftar Menüsü yazısına yapılan yorumlar</title>
+	<atom:link href="/2008/09/10/iftar-menusu/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/09/10/iftar-menusu/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: cansev</title>
+		<link>/2008/09/10/iftar-menusu/#comment-3010</link>
+		<dc:creator><![CDATA[cansev]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2009 12:42:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-3010</guid>
+		<description><![CDATA[çok şahane ama ilginç bir menü değil]]></description>
+		<content:encoded><![CDATA[<p>çok şahane ama ilginç bir menü değil</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: ab-ı hayat</title>
+		<link>/2008/09/10/iftar-menusu/#comment-3009</link>
+		<dc:creator><![CDATA[ab-ı hayat]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2008 11:35:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-3009</guid>
+		<description><![CDATA[Sade ama bir o kadar da şık bir sofra hazırlamışsınız,sofra düzeninizi herzaman takdir etmişimdir...
+
+
+sevgiler...]]></description>
+		<content:encoded><![CDATA[<p>Sade ama bir o kadar da şık bir sofra hazırlamışsınız,sofra düzeninizi herzaman takdir etmişimdir&#8230;</p>
+<p>sevgiler&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Uğur Can</title>
+		<link>/2008/09/10/iftar-menusu/#comment-3008</link>
+		<dc:creator><![CDATA[Uğur Can]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2008 14:20:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=299#comment-3008</guid>
+		<description><![CDATA[Çok kibar ve zevkli bir sofra hazırlamışsınız elinize sağlık.
+Sevgiler Uğur]]></description>
+		<content:encoded><![CDATA[<p>Çok kibar ve zevkli bir sofra hazırlamışsınız elinize sağlık.<br />
+Sevgiler Uğur</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kuru kayısı &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kuru-kayisi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kuru kayısı &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Brokolili Göbek Salata</title>
+		<link>/2008/02/16/brokolili-gobek-salata/</link>
+		<comments>/2008/02/16/brokolili-gobek-salata/#comments</comments>
+		<pubDate>Sat, 16 Feb 2008 19:03:05 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[brokoli]]></category>
+		<category><![CDATA[cherry domates]]></category>
+		<category><![CDATA[göbek marul]]></category>
+		<category><![CDATA[havuç]]></category>
+		<category><![CDATA[közlenmiş kırmızı biber]]></category>
+		<category><![CDATA[kuru kayısı]]></category>
+		<category><![CDATA[mısır]]></category>
+
+		<guid isPermaLink="false">/2008/02/16/brokolili-gobek-salata/</guid>
+		<description><![CDATA[Derslerimdeki yoğunluk sebebiyle tarifler biraz gecikti, özür dilerim. Böreğin ve krebin tarifini de annemden alır almaz ekleyeceğim. Hepinize mutlu pazarlar! BROKOLİLİ GÖBEK SALATA Brokoliler yıkanır. Havuçlar da kibrit çöpü gibi doğranır. Bu ikisi buharda pişirilir. Servis kasesinin altına brokoli ve havuçlar konur. Üzerine doğranmış göbek marul, közlenmiş kırmızı biber, mısır ve kuru kayısı ilave edilir. &#8230; <p class="link-more"><a href="/2008/02/16/brokolili-gobek-salata/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Brokolili Göbek Salata"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Derslerimdeki yoğunluk sebebiyle tarifler biraz gecikti, özür dilerim. Böreğin ve krebin tarifini de annemden alır almaz ekleyeceğim.</p>
+<p>Hepinize mutlu pazarlar!<a href="http://www.flickr.com/photos/melda/2268861431/" title="photo sharing"><img align="right" src="http://farm3.static.flickr.com/2296/2268861431_c715fae967_m.jpg" style="border: #000000 2px solid" /></a></p>
+<p><strong><font color="#800000">BROKOLİLİ GÖBEK SALATA</font></strong></p>
+<p style="float: right; margin-bottom: 10px; margin-left: 10px"><a href="http://www.flickr.com/photos/melda/2268861431/" title="photo sharing"></a></p>
+<p><strong>Brokoli</strong>ler yıkanır. <strong>Havuç</strong>lar da kibrit çöpü gibi doğranır. Bu ikisi buharda pişirilir. Servis kasesinin altına brokoli ve havuçlar konur. Üzerine doğranmış <strong>göbek marul</strong>, <strong>közlenmiş kırmızı biber</strong>, <strong>mısır</strong> ve <strong>kuru kayısı</strong> ilave edilir. Satanın üzerine biraz daha brokoli konup <strong>cherry domates</strong>, közlenmiş kırmızı biber ve mısırla süslenir. Sos olarak da <strong>hazır salata sosu</strong> ya da <strong>limon+zeytinyağ</strong> dökülür.<br />
+<br clear="all" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/02/16/brokolili-gobek-salata/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Kesme Çorbası yazısına yapılan yorumlar</title>
+	<atom:link href="/2005/11/09/kesme-corbasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/11/09/kesme-corbasi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: zeynep</title>
+		<link>/2005/11/09/kesme-corbasi/#comment-1060</link>
+		<dc:creator><![CDATA[zeynep]]></dc:creator>
+		<pubDate>Sun, 16 Sep 2007 11:46:24 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=71#comment-1060</guid>
+		<description><![CDATA[güzel bir tarif ellerinize sağlık yaptım çok güzel oldu...:)]]></description>
+		<content:encoded><![CDATA[<p>güzel bir tarif ellerinize sağlık yaptım çok güzel oldu&#8230;:)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Ayvalı Tatlı yazısına yapılan yorumlar</title>
+	<atom:link href="/2006/02/24/ayvali-tatli/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/02/24/ayvali-tatli/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: esen çakır</title>
+		<link>/2006/02/24/ayvali-tatli/#comment-1288</link>
+		<dc:creator><![CDATA[esen çakır]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2008 21:22:38 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=99#comment-1288</guid>
+		<description><![CDATA[Sitenize tesadüfen girdim çok beğendim emeğinize sağlık ayrıca ayvalı tatlı tarifiniz şu anda bulunduğumuz mevsime çok  uygun bir  en kısa zamanda deneyeceğim teşekkürler]]></description>
+		<content:encoded><![CDATA[<p>Sitenize tesadüfen girdim çok beğendim emeğinize sağlık ayrıca ayvalı tatlı tarifiniz şu anda bulunduğumuz mevsime çok  uygun bir  en kısa zamanda deneyeceğim teşekkürler</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Menü 4 - Yemek Zevki</title>
+		<link>/2006/02/24/ayvali-tatli/#comment-1287</link>
+		<dc:creator><![CDATA[Menü 4 - Yemek Zevki]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2007 14:11:26 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=99#comment-1287</guid>
+		<description><![CDATA[[...] pilav, sodalı kıymalı börek, patlıcanlı roka salatası, kış salatası, ıspanaklı salata, ayvalı tatlı, cheesecake ve baklava hazırladık. Baklava annemin teyzesine ait. Tarifini en kısa zamanda [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] pilav, sodalı kıymalı börek, patlıcanlı roka salatası, kış salatası, ıspanaklı salata, ayvalı tatlı, cheesecake ve baklava hazırladık. Baklava annemin teyzesine ait. Tarifini en kısa zamanda [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

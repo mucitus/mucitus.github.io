@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>köy peyniri &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/koy-peyniri/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>köy peyniri &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Peynirli Poğaça</title>
+		<link>/2011/04/18/peynirli-pogaca-2/</link>
+		<comments>/2011/04/18/peynirli-pogaca-2/#comments</comments>
+		<pubDate>Mon, 18 Apr 2011 07:36:57 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Börekler & Poğaçalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[kabartma tozu]]></category>
+		<category><![CDATA[köy peyniri]]></category>
+		<category><![CDATA[peynir]]></category>
+		<category><![CDATA[poğaça]]></category>
+
+		<guid isPermaLink="false">/?p=857</guid>
+		<description><![CDATA[Annemin tarifini arkadaşı Nagehan Teyze&#8217;den alıp yaptığı bu poğaçalar, Yasir tarafından da çok beğenildi. Puf puf yumuşacık bu poğaçaları denemenizi tavsiye ederim. Özellikle haftasonu kahvaltıları için mükemmel seçim. MALZEMELER 1,5 çay bardağı sıvıyağ 1,5 çay bardağı yoğurt 3 paket kabartma tozu 2 yumurta (birinin sarısı üzeri için ayrılacak) tuz aldığı kadar un YAPILIŞI Bütün malzemeler &#8230; <p class="link-more"><a href="/2011/04/18/peynirli-pogaca-2/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Peynirli Poğaça"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5630106933/"><img class="aligncenter" src="http://farm6.static.flickr.com/5188/5630106933_41861ae572_z.jpg" alt="" width="427" height="640" /></a></p>
+<p>Annemin tarifini arkadaşı Nagehan Teyze&#8217;den alıp yaptığı bu poğaçalar, Yasir tarafından da çok beğenildi. Puf puf yumuşacık bu poğaçaları denemenizi tavsiye ederim. Özellikle haftasonu kahvaltıları için mükemmel seçim.</p>
+<p><strong>MALZEMELER</strong><br />
+1,5 çay bardağı sıvıyağ<br />
+1,5 çay bardağı yoğurt<br />
+3 paket kabartma tozu<br />
+2 yumurta (birinin sarısı üzeri için ayrılacak)<br />
+tuz<br />
+aldığı kadar un</p>
+<p><strong>YAPILIŞI</strong><br />
+Bütün malzemeler karıştırılıp elde edilen hamurdan ceviz büyüklüğünde parçalar koparılıp içlerine tercihen köy peyniri konarak yuvarlanır. Üzerlerine yumurta sarısı sürülüp, çörek otu serpilerek fırında pişirilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/18/peynirli-pogaca-2/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		</item>
+	</channel>
+</rss>

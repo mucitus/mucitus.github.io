@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kemik suyu &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kemik-suyu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kemik suyu &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Süzme Mercimek Çorbası</title>
+		<link>/2012/08/01/suzme-mercimek-corbasi/</link>
+		<comments>/2012/08/01/suzme-mercimek-corbasi/#comments</comments>
+		<pubDate>Wed, 01 Aug 2012 21:19:48 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Çorbalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[çorba]]></category>
+		<category><![CDATA[kemik suyu]]></category>
+		<category><![CDATA[mercimek]]></category>
+
+		<guid isPermaLink="false">/?p=1056</guid>
+		<description><![CDATA[Mercimek çorbasını geçen yıldan beri sevgili Hilal&#8216;in yayınladığı tarife göre yapıyorum. Tarifi Hacı Abdullah&#8217;dan bize aktardığı için kendisine çok teşekkür ediyorum, çünkü şimdiye kadar bu çorbayı beğenmeyen olmadı! Kemik suyuyla yapıldığı için özellikle çocuklar için çok da besleyici. MALZEMELER (4 kişilik) ½ su bardağı kırmızı mercimek 1 orta boy soğan 1 orta boy havuç 5 &#8230; <p class="link-more"><a href="/2012/08/01/suzme-mercimek-corbasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Süzme Mercimek Çorbası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7693696228/"><img class="aligncenter" src="http://farm9.staticflickr.com/8028/7693696228_59193bf73d_z.jpg" alt="Untitled" width="640" height="539" /></a></p>
+<p>Mercimek çorbasını geçen yıldan beri sevgili <a href="http://armutunsapi.blogspot.com/2011/08/iftar-soframz-ve-ilk-tarif-hac.html">Hilal</a>&#8216;in yayınladığı tarife göre yapıyorum. Tarifi Hacı Abdullah&#8217;dan bize aktardığı için kendisine çok teşekkür ediyorum, çünkü şimdiye kadar bu çorbayı beğenmeyen olmadı! Kemik suyuyla yapıldığı için özellikle çocuklar için çok da besleyici.</p>
+<p><strong>MALZEMELER <em>(4 kişilik)</em></strong></p>
+<p>½ su bardağı kırmızı mercimek<br />
+1 orta boy soğan<br />
+1 orta boy havuç<br />
+5 su bardağı kemik suyu<br />
+1 yemek kaşığı un<br />
+50 g tereyağı<br />
+Kırmızıbiber, tuz</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>4 su bardağı kemik suyuna havucu rendeleyin, üzerine dörde bölünmüş soğanı ve mercimeği ekleyerek 15 dakika kaynatın. Karışımı elekten geçirin. <em>(ben düdüklü tencerede basınç oluştuktan sonra 15 dk. kadar pişiriyorum ve elekten geçirmeden sadece blendırla iyice eziyorum.)</em></p>
+<p>Bir kapta tereyağını eritin, unu ekleyip 5 dakika kadar kavurun, üzerine 1 su bardağı kemik suyunu ekleyip iyice karıştırın, kaynamaya başladığında elekten geçirdiğiniz malzemeyi ilave edin. Kaynayınca ocağı kapatın, sıcak servis yapın.</p>
+<p>Ben de Hilal gibi ölçüyü 2 katına çıkararak yapıyorum. Üzerine de servise yakın kırmızı biberli tereyağ eritip döküyorum.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/01/suzme-mercimek-corbasi/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

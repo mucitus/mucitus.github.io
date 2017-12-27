@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>isot &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/isot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>isot &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Çiğ Köfte</title>
+		<link>/2006/02/13/cig-kofte/</link>
+		<comments>/2006/02/13/cig-kofte/#comments</comments>
+		<pubDate>Sun, 12 Feb 2006 23:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Etli Yemekler]]></category>
+		<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[bulgur]]></category>
+		<category><![CDATA[isot]]></category>
+		<category><![CDATA[kıyma]]></category>
+		<category><![CDATA[köfte]]></category>
+
+		<guid isPermaLink="false">http://localhost:8080/?p=94</guid>
+		<description><![CDATA[Hacı arkadaşımız Mustafa Abi, geçen akşam bizlere kendi elleriyle bu harika çiğ köfteleri hazırlamıştı. Ben de bu güzel lezzeti hemen sizlerle paylaşmak istedim. Ellerinize sağlık Mustafa Abi.. Malzemeler yarım kilo çiğ köftelik bulgur 2 büyük kuru soğan yarım çay bardağı zeytinyağ 5 yemek kaşığı domates salçası 2 yemek kaşığı acı biber salçası 2 yemek kaşığı &#8230; <p class="link-more"><a href="/2006/02/13/cig-kofte/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Çiğ Köfte"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><span style="font-family: trebuchet ms;">Hacı arkadaşımız Mustafa Abi, geçen akşam bizlere kendi elleriyle bu harika çiğ köfteleri hazırlamıştı. Ben de bu güzel lezzeti hemen sizlerle paylaşmak istedim. </span><span style="font-family: trebuchet ms;">Ellerinize sağlık Mustafa Abi..</span></p>
+<p style="float: right; margin-bottom: 10px; margin-left: 10px"><a title="photo sharing" href="http://www.flickr.com/photos/merve/98914198/"><img style="border: #000000 2px solid" src="http://static.flickr.com/37/98914198_ebe2209397_m.jpg" alt="" /></a></p>
+<p><span style="font-family: trebuchet ms;"><strong>Malzemeler</strong><br />
+yarım kilo çiğ köftelik bulgur<br />
+2 büyük kuru soğan<br />
+yarım çay bardağı zeytinyağ<br />
+5 yemek kaşığı domates salçası<br />
+2 yemek kaşığı acı biber salçası<br />
+2 yemek kaşığı isot<br />
+1 çay kaşığı kimyon<br />
+7 diş sarımsak<br />
+yarım kilo çiğ köftelik kıyma (3-4 kere çekilmiş)<br />
+1 demet maydonoz<br />
+yarım demet yeşil soğan<br />
+1 demet taze nane<br />
+1 demet kıvırcık salata<br />
+1 çay bardağı su</span></p>
+<p><span style="font-family: trebuchet ms;"><strong>Yapılışı</strong><br />
+Robotta çekilen kuru soğanlar, bulgur ve zeytinyağ 10 dakika yoğrulur. Daha sonra sırasıyla domates salçası, biber salçası ve isot ilave edilir. Kıyma da ilave edilip yoğrulmaya başlanır. Yoğurma sırasında kimyon, rendelenmiş sarımsak, ince kıyılmış maydonoz ve en son olarak yeşil soğan da ilave edilir. 20 dakika daha yoğrulurken su da yavaş yavaş ilave edilir. 10 dakika dinlendirilir. Ceviz büyüklüğünde parçalar ıslak elle alınıp avuç içinde bir kere sıkılıp şekil verilir. Nane ve kıvırcık yaprak eşliğinde servis edilir.</span></p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/02/13/cig-kofte/feed/</wfw:commentRss>
+		<slash:comments>31</slash:comments>
+		</item>
+	</channel>
+</rss>

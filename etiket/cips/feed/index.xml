@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cips &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/cips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>cips &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Meksika Salatası</title>
+		<link>/2010/03/08/meksika-salatasi/</link>
+		<comments>/2010/03/08/meksika-salatasi/#comments</comments>
+		<pubDate>Mon, 08 Mar 2010 19:54:51 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[cips]]></category>
+		<category><![CDATA[dereotu]]></category>
+		<category><![CDATA[meksika fasulyesi]]></category>
+		<category><![CDATA[nar ekşisi]]></category>
+		<category><![CDATA[soğan]]></category>
+		<category><![CDATA[sviri biber]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+
+		<guid isPermaLink="false">/?p=561</guid>
+		<description><![CDATA[Bu salatayı yapmadan önce aklımda kış salatası yapmak vardı, fakat portakal ağacı&#8217;ndaki tarifi görünce onu denemeye karar verdim. Benim çok hoşuma gitti, umarım sizler de beğenirsiniz.. MALZEMELER 1 kutu Meksika fasulyesi konservesi 1 demet dereotu 1 sivri biber (ben kullanmadım.) 3 dal yeşil soğan 1/2 çay bardağı zeytinyağ baharatlı cips (sos için ben ayrıca nar &#8230; <p class="link-more"><a href="/2010/03/08/meksika-salatasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Meksika Salatası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4398905423/"><img class="aligncenter" src="http://farm3.static.flickr.com/2453/4398905423_62542a2959.jpg" alt="" width="333" height="500" /></a></p>
+<p>Bu salatayı yapmadan önce aklımda <a href="/2006/02/19/kis-salatasi/">kış salatası</a> yapmak vardı, fakat portakal ağacı&#8217;ndaki tarifi görünce onu denemeye karar verdim. Benim çok hoşuma gitti, umarım sizler de beğenirsiniz..</p>
+<p><strong>MALZEMELER</strong><br />
+1 kutu Meksika fasulyesi konservesi<br />
+1 demet dereotu<br />
+1 sivri biber (ben kullanmadım.)<br />
+3 dal yeşil soğan<br />
+1/2 çay bardağı zeytinyağ<br />
+baharatlı cips<br />
+(sos için ben ayrıca nar ekşisi de kullandım.)</p>
+<p><strong>YAPILIŞI</strong><br />
+Fasulyeler yıkanıp süzülür. Dereotu ve yeşil soğan doğranıp fasulyelerle karıştırılır. Salata; zeytinyağ, nar ekşisi ve tuz ile karıştırılıp servis tabağına alınır. Servise yakın, üzerine ufalanmış cips dökülür. Arzu edilirse, parçalanmamış cipslerle süslenebilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/08/meksika-salatasi/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

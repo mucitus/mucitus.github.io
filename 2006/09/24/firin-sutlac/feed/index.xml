@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Fırın Sütlaç yazısına yapılan yorumlar</title>
+	<atom:link href="/2006/09/24/firin-sutlac/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/09/24/firin-sutlac/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: Nukhet</title>
+		<link>/2006/09/24/firin-sutlac/#comment-1589</link>
+		<dc:creator><![CDATA[Nukhet]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2006 09:46:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=123#comment-1589</guid>
+		<description><![CDATA[Merhaba &lt;br/&gt;Buraya ilk konuk olusum ama cok hoslandim. Ozellikle firin sutlaca yorum yazmadan gecemedim. En sevdigim tatlidir kendisi. Ellerinize saglik. Sevgiler]]></description>
+		<content:encoded><![CDATA[<p>Merhaba <br />Buraya ilk konuk olusum ama cok hoslandim. Ozellikle firin sutlaca yorum yazmadan gecemedim. En sevdigim tatlidir kendisi. Ellerinize saglik. Sevgiler</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: özge yaşar</title>
+		<link>/2006/09/24/firin-sutlac/#comment-1588</link>
+		<dc:creator><![CDATA[özge yaşar]]></dc:creator>
+		<pubDate>Wed, 27 Sep 2006 12:06:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=123#comment-1588</guid>
+		<description><![CDATA[benim ızgaralı fırınım yok benimki turbo fırın sütlaçların üzerini nasıl kızartabilirim?]]></description>
+		<content:encoded><![CDATA[<p>benim ızgaralı fırınım yok benimki turbo fırın sütlaçların üzerini nasıl kızartabilirim?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Ebru</title>
+		<link>/2006/09/24/firin-sutlac/#comment-1587</link>
+		<dc:creator><![CDATA[Ebru]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2006 17:41:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=123#comment-1587</guid>
+		<description><![CDATA[Melda ellerine sağlık fırın sütlaç nefis görünüyor sana ve sevdiklerine hayırlı ramazanlar diliyorum Sevgiler Ebru]]></description>
+		<content:encoded><![CDATA[<p>Melda ellerine sağlık fırın sütlaç nefis görünüyor sana ve sevdiklerine hayırlı ramazanlar diliyorum Sevgiler Ebru</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: susam</title>
+		<link>/2006/09/24/firin-sutlac/#comment-1586</link>
+		<dc:creator><![CDATA[susam]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2006 19:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=123#comment-1586</guid>
+		<description><![CDATA[Meldacım eline sağlık canım eşim bayılır fırın sütlaca aslında geçen gün istemişti benden yeni tatlar denemekten fırsat bulup yapmamıştım :) iyi ramazanlar diliyorum hoşcakal.Özge]]></description>
+		<content:encoded><![CDATA[<p>Meldacım eline sağlık canım eşim bayılır fırın sütlaca aslında geçen gün istemişti benden yeni tatlar denemekten fırsat bulup yapmamıştım 🙂 iyi ramazanlar diliyorum hoşcakal.Özge</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

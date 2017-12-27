@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pul biber &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/pul-biber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>pul biber &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Domatesli Közlenmiş Patlıcan ve Biber Salatası</title>
+		<link>/2009/06/12/domatesli-kozlenmis-patlican-ve-biber-salatasi/</link>
+		<comments>/2009/06/12/domatesli-kozlenmis-patlican-ve-biber-salatasi/#comments</comments>
+		<pubDate>Fri, 12 Jun 2009 10:13:55 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[domates]]></category>
+		<category><![CDATA[közlenmiş kırmızı biber]]></category>
+		<category><![CDATA[patlıcan]]></category>
+		<category><![CDATA[pul biber]]></category>
+		<category><![CDATA[sarımsak]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+
+		<guid isPermaLink="false">/?p=445</guid>
+		<description><![CDATA[MALZEMELER 1 çay bardağı zeytinyağ 2-3 diş sarımsak 4-5 tane iri domates 3-4 tane çarliston biber 3-4 közlenmiş kırmızı biber 1 kg patlıcan pul biber tuz YAPILIŞI Sarımsaklar ve doğranmış çarliston biberler zeytinyağda öldürülür, domatesler doğranarak ilave edilip kısık ateşte suyunu çekene kadar pişirilir. Patlıcanlar kabukları ile beraber ocakta közlenir, soğuk suyun altında kabukları soyulup &#8230; <p class="link-more"><a href="/2009/06/12/domatesli-kozlenmis-patlican-ve-biber-salatasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Domatesli Közlenmiş Patlıcan ve Biber Salatası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3600740483/"><img class="aligncenter" src="http://farm4.static.flickr.com/3600/3600740483_dfeac1f3dd.jpg" alt="" width="332" height="500" /></a></p>
+<p><strong>MALZEMELER</strong></p>
+<p>1 çay bardağı zeytinyağ<br />
+2-3 diş sarımsak<br />
+4-5 tane iri domates<br />
+3-4 tane çarliston biber<br />
+3-4 közlenmiş kırmızı biber<br />
+1 kg patlıcan<br />
+pul biber<br />
+tuz</p>
+<p><strong>YAPILIŞI</strong><br />
+Sarımsaklar ve doğranmış çarliston biberler zeytinyağda öldürülür, domatesler doğranarak ilave edilip kısık ateşte suyunu çekene kadar pişirilir.<br />
+Patlıcanlar kabukları ile beraber ocakta közlenir, soğuk suyun altında kabukları soyulup doğranır ve közlenmiş kırmızı biberlerle birlikte pişmiş domatese ilave edilir. Pul biber ve tuz da katılıp 20 dakika kısık ateşte ara ara karıştırılarak pişirilir. Ilık olarak servis yapılır.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/12/domatesli-kozlenmis-patlican-ve-biber-salatasi/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

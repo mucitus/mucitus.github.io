@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zeytinyağlı fasulye &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/zeytinyagli-fasulye/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>zeytinyağlı fasulye &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>anneannemin zeytinyağlıları..</title>
+		<link>/2011/07/08/anneannemin-zeytinyaglilari/</link>
+		<comments>/2011/07/08/anneannemin-zeytinyaglilari/#comments</comments>
+		<pubDate>Fri, 08 Jul 2011 13:35:17 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Zeytinyağlı Yemekler]]></category>
+		<category><![CDATA[sofra]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+		<category><![CDATA[zeytinyağlı biber dolması]]></category>
+		<category><![CDATA[zeytinyağlı fasulye]]></category>
+
+		<guid isPermaLink="false">/?p=874</guid>
+		<description><![CDATA[Uzun bir aradan sonra herkese merhaba! Bloguma bu şekilde uzun aralar vermeyi hiç sevmiyorum, her zamanki bahanelerime sığınmayacağım bu sefer. Ardarda birkaç yazı yazarak kendimi affettimeye çalışacağım 🙂 Bu yazıda yeni tarif yok. Anneannemde biraraya geldiğimiz bir sofranın fotoğrafı var. Anneannemin zeytinyağlı yemekleri denilince, akan sular durur bende 🙂 Birgün torunlarım da benim için aynı &#8230; <p class="link-more"><a href="/2011/07/08/anneannemin-zeytinyaglilari/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "anneannemin zeytinyağlıları.."</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Uzun bir aradan sonra herkese merhaba!<br />
+Bloguma bu şekilde uzun aralar vermeyi hiç sevmiyorum, her zamanki bahanelerime sığınmayacağım bu sefer. Ardarda birkaç yazı yazarak kendimi affettimeye çalışacağım <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Bu yazıda yeni tarif yok. Anneannemde biraraya geldiğimiz bir sofranın fotoğrafı var. Anneannemin zeytinyağlı yemekleri denilince, akan sular durur bende <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Birgün torunlarım da benim için aynı şeyi söylerler umarım..</p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5914967811/"><img class="aligncenter" src="http://farm7.static.flickr.com/6032/5914967811_562e92b324_z.jpg" alt="" width="427" height="640" /></a></p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5914967537/"><img class="aligncenter" src="http://farm7.static.flickr.com/6045/5914967537_a05764d884_z.jpg" alt="" width="427" height="640" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/08/anneannemin-zeytinyaglilari/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

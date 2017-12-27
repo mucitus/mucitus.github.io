@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bursa &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/bursa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>bursa &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bursa&#039;da güzel bir gün..</title>
+		<link>/2012/09/10/bursada-guzel-bir-gun/</link>
+		<comments>/2012/09/10/bursada-guzel-bir-gun/#comments</comments>
+		<pubDate>Mon, 10 Sep 2012 13:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Menüler]]></category>
+		<category><![CDATA[akşam yemeği]]></category>
+		<category><![CDATA[bursa]]></category>
+		<category><![CDATA[kahvaltı]]></category>
+		<category><![CDATA[sofra]]></category>
+
+		<guid isPermaLink="false">/?p=1078</guid>
+		<description><![CDATA[İnsanın kutsal yolculukta edindiği dostların yeri bir başka oluyor. Evlenmeden önce annemlerle bu yolculuğa her çıkışımızda yeni arkadaşlarımız oldu, çoğunlukla da önceden bu mübarek yerlerde tanıştığımız dostlarımızla tekrar karşılaştık.. Kimileriyle farklı şehirlerde de olsak, Türkiye&#8217;ye döndükten sonra irtibatı hiç koparmadık. Geçen haftalarda umre arkadaşlarımızı ziyaret maksadıyla Bursa yollarına düştük. Sabah kahvaltımızı Mine Abla&#8217;da, akşam yemeğimizi &#8230; <p class="link-more"><a href="/2012/09/10/bursada-guzel-bir-gun/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Bursa&#039;da güzel bir gün.."</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>İnsanın kutsal yolculukta edindiği dostların yeri bir başka oluyor. Evlenmeden önce annemlerle bu yolculuğa her çıkışımızda yeni arkadaşlarımız oldu, çoğunlukla da önceden bu mübarek yerlerde tanıştığımız dostlarımızla tekrar karşılaştık.. Kimileriyle farklı şehirlerde de olsak, Türkiye&#8217;ye döndükten sonra irtibatı hiç koparmadık. Geçen haftalarda umre arkadaşlarımızı ziyaret maksadıyla Bursa yollarına düştük. Sabah kahvaltımızı Mine Abla&#8217;da, akşam yemeğimizi de Mudanya&#8217;da Hatice Abla&#8217;da yedik. Bizi öyle güzel ağırladılar ki, dönüşte bir günün yetmediğini konuşuyorduk annemle.. En kısa zamanda biz de onları İstanbul&#8217;da misafir etmeyi dört gözle bekliyoruz.</p>
+<p>&nbsp;</p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7970843272/"><img class="aligncenter" src="http://farm9.staticflickr.com/8441/7970843272_56af5dd296.jpg" alt="Untitled" width="374" height="500" /></a></p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7970840906/"><img class="aligncenter" src="http://farm9.staticflickr.com/8459/7970840906_a367042d57.jpg" alt="Untitled" width="374" height="500" /></a></p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7970838140/"><img class="aligncenter" src="http://farm9.staticflickr.com/8308/7970838140_39d1f4b881.jpg" alt="Untitled" width="374" height="500" /></a></p>
+<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7970834856/"><img class="aligncenter" src="http://farm9.staticflickr.com/8309/7970834856_e095cb92d6.jpg" alt="Untitled" width="374" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/09/10/bursada-guzel-bir-gun/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

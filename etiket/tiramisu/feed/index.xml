@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tiramisu &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/tiramisu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>tiramisu &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>27. gün &#8211; Tiramisu</title>
+		<link>/2010/09/06/27-gun-tiramisu/</link>
+		<comments>/2010/09/06/27-gun-tiramisu/#comments</comments>
+		<pubDate>Mon, 06 Sep 2010 16:05:26 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlılar]]></category>
+		<category><![CDATA[labne]]></category>
+		<category><![CDATA[labne peyniri]]></category>
+		<category><![CDATA[tiramisu]]></category>
+
+		<guid isPermaLink="false">/?p=739</guid>
+		<description><![CDATA[Geçen gün teyzemin sofrasının telefonla çekilmiş fotoğraflarını paylaşmıştım hatırlarsanız. İşte o günün şahane tatlısı birazdan tarifini vereceğim tiramisu.. Fotoğrafı henüz yok, ama ilk denememde -emin olun çok sürmez- bu posta eklenecek. Baştan söyleyeyim; bu tarifte çiğ yumurta var ama daha yerken anlayabilen çıkmadı! 3 adet yumurtanın beyazları ve sarıları ayrı kaplarda çırpılır. Sarıların içine üç &#8230; <p class="link-more"><a href="/2010/09/06/27-gun-tiramisu/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "27. gün &#8211; Tiramisu"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>Geçen gün teyzemin sofrasının telefonla çekilmiş fotoğraflarını paylaşmıştım hatırlarsanız. İşte o günün şahane tatlısı birazdan tarifini vereceğim tiramisu.. Fotoğrafı henüz yok, ama ilk denememde -emin olun çok sürmez- bu posta eklenecek.</p>
+<p>Baştan söyleyeyim; bu tarifte çiğ yumurta var ama daha yerken anlayabilen çıkmadı!</p>
+<p>3 adet yumurtanın beyazları ve sarıları ayrı kaplarda çırpılır.<br />
+Sarıların içine üç tepeleme yemek kaşığı şeker ilave edilip biraz daha çırpılır. Şekerli sarıya 300 gr. labne peyniri de eklenip çırpmaya devam edilir.<br />
+Sarılar, beyazlara tahta bir kaşıkla aynı yönde sadece bir iki defa karıştırılarak eklenir.<br />
+Hazır savyer bisküviler, bir fincanda kaynar su ile hazırlanan şekerli nescafe ile ıslatılarak kare borcamın tabanına dizilir. (bir bisküvi için yaklaşık bir yemek kaşığı nescafeli şerbet)<br />
+Bu bir sıra savyerlerin üzerine yumurtalı kremadan sürülür. Sonra yine nescafeli savyerler dizilerek en üstte krema olacak şekilde 1,5 paket kadar savyer bitene kadar bu işleme devam edilir.<br />
+Pastanın üzerine kakao tel süzgeçten geçirilerek serpilir.</p>
+<p>not: bu tiramisu, çiğ yumurtalar sebebiyle yapıldığı gün tüketilse daha iyi olacaktır.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/06/27-gun-tiramisu/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

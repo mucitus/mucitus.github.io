@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Sebzeli Kereviz Salatası yazısına yapılan yorumlar</title>
+	<atom:link href="/2006/11/05/sebzeli-kereviz-salatasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/11/05/sebzeli-kereviz-salatasi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: sabriye barin</title>
+		<link>/2006/11/05/sebzeli-kereviz-salatasi/#comment-1637</link>
+		<dc:creator><![CDATA[sabriye barin]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2009 21:52:48 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=128#comment-1637</guid>
+		<description><![CDATA[zeytinyaglı kereviz malzemelerine 1 adet ayvayıda eklerseniz lezzeti doyulmaz oluyor]]></description>
+		<content:encoded><![CDATA[<p>zeytinyaglı kereviz malzemelerine 1 adet ayvayıda eklerseniz lezzeti doyulmaz oluyor</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Anonymous</title>
+		<link>/2006/11/05/sebzeli-kereviz-salatasi/#comment-1636</link>
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Tue, 05 Dec 2006 18:27:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=128#comment-1636</guid>
+		<description><![CDATA[Bu yaptiginiz zeytinyagli kereviz gibi mi yoksa gercekten salata gibi mi oluyor?ISIL]]></description>
+		<content:encoded><![CDATA[<p>Bu yaptiginiz zeytinyagli kereviz gibi mi yoksa gercekten salata gibi mi oluyor?ISIL</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: emine</title>
+		<link>/2006/11/05/sebzeli-kereviz-salatasi/#comment-1635</link>
+		<dc:creator><![CDATA[emine]]></dc:creator>
+		<pubDate>Wed, 22 Nov 2006 20:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=128#comment-1635</guid>
+		<description><![CDATA[merhaba Melda, çok cazibeli görünüyor ama şu kerevize bir türlü ısınamadım:((&lt;br/&gt;&lt;br/&gt;hasmutfak.com]]></description>
+		<content:encoded><![CDATA[<p>merhaba Melda, çok cazibeli görünüyor ama şu kerevize bir türlü ısınamadım:((</p>
+<p>hasmutfak.com</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

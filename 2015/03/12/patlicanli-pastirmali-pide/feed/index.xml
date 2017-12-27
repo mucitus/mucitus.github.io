@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Patlıcanlı &#038; Pastırmalı Pide yazısına yapılan yorumlar</title>
+	<atom:link href="/2015/03/12/patlicanli-pastirmali-pide/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/03/12/patlicanli-pastirmali-pide/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: sevde</title>
+		<link>/2015/03/12/patlicanli-pastirmali-pide/#comment-5170</link>
+		<dc:creator><![CDATA[sevde]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2015 14:56:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1512#comment-5170</guid>
+		<description><![CDATA[Bu site benim yemek defterim modunda, her hafta bakiyorum  mutlaka :)) ellerinize saglik selamlar]]></description>
+		<content:encoded><![CDATA[<p>Bu site benim yemek defterim modunda, her hafta bakiyorum  mutlaka :)) ellerinize saglik selamlar</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: sevde</title>
+		<link>/2015/03/12/patlicanli-pastirmali-pide/#comment-5171</link>
+		<dc:creator><![CDATA[sevde]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2015 14:56:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1512#comment-5171</guid>
+		<description><![CDATA[Bu site benim yemek defterim modunda, her hafta bakiyorum  mutlaka :)) ellerinize saglik selamlar]]></description>
+		<content:encoded><![CDATA[<p>Bu site benim yemek defterim modunda, her hafta bakiyorum  mutlaka :)) ellerinize saglik selamlar</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

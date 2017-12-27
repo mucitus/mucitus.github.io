@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>etli yemek &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/etli-yemek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>etli yemek &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>iftar..</title>
+		<link>/2011/08/16/iftar/</link>
+		<comments>/2011/08/16/iftar/#comments</comments>
+		<pubDate>Mon, 15 Aug 2011 22:22:29 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Etli Yemekler]]></category>
+		<category><![CDATA[Menüler]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[etli yemek]]></category>
+		<category><![CDATA[güveç]]></category>
+		<category><![CDATA[iftar]]></category>
+		<category><![CDATA[menü]]></category>
+		<category><![CDATA[sofra]]></category>
+
+		<guid isPermaLink="false">/?p=890</guid>
+		<description><![CDATA[Geçen hafta iftar sofralarımla yeniden buluşmak üzere derken, ertesi gün vereceğim davete ait güzel fotoğraflar çekip hemen burada paylaşmayı hayal ediyordum. Ama yetiştirme konusunda biraz telaş yapınca fotoğraf çekecek vakit de olmadı malesef. Yalnız o günkü ana yemeğimi tekrar yaptığım zaman fotoğraflayıp paylaşmak istiyorum. İkinci iftar davetime ait olan bu sofranın fotoğrafı istediğim gibi olmadı, &#8230; <p class="link-more"><a href="/2011/08/16/iftar/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "iftar.."</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="IMG_0094re by melda, on Flickr" href="http://www.flickr.com/photos/melda/6047482146/"><img class="aligncenter" src="http://farm7.static.flickr.com/6067/6047482146_f62061744c.jpg" alt="IMG_0094re" width="500" height="333" /></a></p>
+<p>Geçen hafta iftar sofralarımla yeniden buluşmak üzere derken, ertesi gün vereceğim davete ait güzel fotoğraflar çekip hemen burada paylaşmayı hayal ediyordum. Ama yetiştirme konusunda biraz telaş yapınca fotoğraf çekecek vakit de olmadı malesef. Yalnız o günkü ana yemeğimi tekrar yaptığım zaman fotoğraflayıp paylaşmak istiyorum.</p>
+<p>İkinci iftar davetime ait olan bu sofranın fotoğrafı istediğim gibi olmadı, ama iftar davetlerinde son dakikada fotoğraf çekmek zor olduğundan böyle idare edeceğiz artık. Servisi oldukça rahat olan menüm şöyleydi;</p>
+<p>-mercimek çorbası<br />
+-etli&amp;sebzeli güveç<br />
+-bademli pilav<br />
+-zeytinyağlı fasulye<br />
+-sodalı börek <a href="http://www.portakalagaci.com/oburcuk/2004/06/sodal_brek.html">(tarif portakal ağacı&#8217;ndan)</a><br />
+-sakızlı güllaç</p>
+<p>Güveci yaparken önce 4-5 tane kabağı, 2-3 tane patlıcanı ve 2 patatesi küp küp doğrayıp ayrı ayrı kızarttım. Yarım kilo kadar kuşbaşı eti önce yağsız ve susuz olarak teflon tencerede suyunu salıp çekene kadar pişirdim. Tereyağ ekleyip biraz kavurdum. Ayrı bir tencerede sıvıyağda yemeklik doğradığım soğanı ve sarımsağı kavurup, sivri biber ve domates ilave edip pişirmeye devam ettim. Birer yemek kaşığı domates ve biber salçası da ekleyerek hazırladığım bu sosa etleri ve bir miktar suyu ilave edip biraz daha pişirdim. Güveç kaplarına önce sebzeleri, sonra da etleri paylaştırarak üzerlerini folyo ile kapladım. İftara yakın üzerlerine salçalı su ekleyip öyle fırına verecektim fakat sosu unutarak fırınladım. Yine de güzel oldu. Biraz sulu arzu ederseniz, sosu eklemeyi unutmayın.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/16/iftar/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

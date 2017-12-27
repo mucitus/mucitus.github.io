@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Bayram Tebriği yazısına yapılan yorumlar</title>
+	<atom:link href="/2005/11/02/bayram-tebrigi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/11/02/bayram-tebrigi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: durmuş</title>
+		<link>/2005/11/02/bayram-tebrigi/#comment-1059</link>
+		<dc:creator><![CDATA[durmuş]]></dc:creator>
+		<pubDate>Wed, 08 Sep 2010 19:08:19 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=70#comment-1059</guid>
+		<description><![CDATA[mübarek ramazan bayramınızı en içten dileklerimle kutlarım]]></description>
+		<content:encoded><![CDATA[<p>mübarek ramazan bayramınızı en içten dileklerimle kutlarım</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Özgül</title>
+		<link>/2005/11/02/bayram-tebrigi/#comment-1058</link>
+		<dc:creator><![CDATA[Özgül]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2005 23:41:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=70#comment-1058</guid>
+		<description><![CDATA[Sanada hayirli, neseli ve mutlu bayramlar Melda&lt;br/&gt;Sevgilerimle]]></description>
+		<content:encoded><![CDATA[<p>Sanada hayirli, neseli ve mutlu bayramlar Melda<br />Sevgilerimle</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: gul</title>
+		<link>/2005/11/02/bayram-tebrigi/#comment-1057</link>
+		<dc:creator><![CDATA[gul]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2005 22:31:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=70#comment-1057</guid>
+		<description><![CDATA[sagol canim seninde mubarek olsun nice hayirli bayramlara.. :)]]></description>
+		<content:encoded><![CDATA[<p>sagol canim seninde mubarek olsun nice hayirli bayramlara.. 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Tavuklu Semizotu Salatası yazısına yapılan yorumlar</title>
+	<atom:link href="/2008/05/13/tavuklu-semizotu-salatasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/05/13/tavuklu-semizotu-salatasi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: mirc</title>
+		<link>/2008/05/13/tavuklu-semizotu-salatasi/#comment-2764</link>
+		<dc:creator><![CDATA[mirc]]></dc:creator>
+		<pubDate>Sat, 17 May 2008 08:24:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=237#comment-2764</guid>
+		<description><![CDATA[salatanın görüşünü harika]]></description>
+		<content:encoded><![CDATA[<p>salatanın görüşünü harika</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Pelin</title>
+		<link>/2008/05/13/tavuklu-semizotu-salatasi/#comment-2763</link>
+		<dc:creator><![CDATA[Pelin]]></dc:creator>
+		<pubDate>Fri, 16 May 2008 13:00:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=237#comment-2763</guid>
+		<description><![CDATA[Merhaba,
+Salata çok güzel olmuş mutlaka denemek istiyorum.sevgiler]]></description>
+		<content:encoded><![CDATA[<p>Merhaba,<br />
+Salata çok güzel olmuş mutlaka denemek istiyorum.sevgiler</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: nurcan</title>
+		<link>/2008/05/13/tavuklu-semizotu-salatasi/#comment-2762</link>
+		<dc:creator><![CDATA[nurcan]]></dc:creator>
+		<pubDate>Thu, 15 May 2008 05:37:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=237#comment-2762</guid>
+		<description><![CDATA[harika çok değişik bir tat deneyin mutlaka]]></description>
+		<content:encoded><![CDATA[<p>harika çok değişik bir tat deneyin mutlaka</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Melda</title>
+		<link>/2008/05/13/tavuklu-semizotu-salatasi/#comment-2761</link>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+		<pubDate>Wed, 14 May 2008 08:37:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=237#comment-2761</guid>
+		<description><![CDATA[Teşekküler]]></description>
+		<content:encoded><![CDATA[<p>Teşekküler</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: leyla</title>
+		<link>/2008/05/13/tavuklu-semizotu-salatasi/#comment-2760</link>
+		<dc:creator><![CDATA[leyla]]></dc:creator>
+		<pubDate>Tue, 13 May 2008 20:12:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=237#comment-2760</guid>
+		<description><![CDATA[Meldacım salata çok nefis görünüyor..
+yapanların ellerine sağlık..]]></description>
+		<content:encoded><![CDATA[<p>Meldacım salata çok nefis görünüyor..<br />
+yapanların ellerine sağlık..</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

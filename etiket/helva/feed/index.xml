@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>helva &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/helva/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>helva &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kaşık Helvası</title>
+		<link>/2008/10/21/kasik-helvasi/</link>
+		<comments>/2008/10/21/kasik-helvasi/#comments</comments>
+		<pubDate>Tue, 21 Oct 2008 07:58:54 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlılar]]></category>
+		<category><![CDATA[ceviz]]></category>
+		<category><![CDATA[helva]]></category>
+		<category><![CDATA[pudra şekeri]]></category>
+		<category><![CDATA[tereyağ]]></category>
+
+		<guid isPermaLink="false">/?p=337</guid>
+		<description><![CDATA[Sitede daha önceden kurabiye tarifini yayınladığım teyzemin eltisi Elif Abla&#8217;nın meşhur kaşık helvasını daha önce yemiştim ama fotoğrafını çekme fırsatım olmamıştı. Geçenlerde Merve helvanın fotoğrafını çekmiş, ben de şimdi tarifiyle beraber yayınlıyorum. MALZEMELER 250 gramlık bir paket tereyağ 1 su bardağı irice çekilmiş ceviz 450 gr. un 1 su bardağı pudra şekeri YAPILIŞI Tereyağ geniş &#8230; <p class="link-more"><a href="/2008/10/21/kasik-helvasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kaşık Helvası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter" src="http://farm4.static.flickr.com/3001/2957962319_5f2a53840c.jpg" alt="" /></p>
+<p style="text-align: left;">Sitede daha önceden kurabiye tarifini yayınladığım teyzemin eltisi Elif Abla&#8217;nın meşhur kaşık helvasını daha önce yemiştim ama fotoğrafını çekme fırsatım olmamıştı. Geçenlerde Merve helvanın fotoğrafını çekmiş, ben de şimdi tarifiyle beraber yayınlıyorum.</p>
+<p style="text-align: left;"><strong>MALZEMELER</strong><br />
+250 gramlık bir paket tereyağ<br />
+1 su bardağı irice çekilmiş ceviz<br />
+450 gr. un<br />
+1 su bardağı pudra şekeri</p>
+<p><strong>YAPILIŞI</strong><br />
+Tereyağ geniş ve yayvan bir teflon tavada eritilir. Tereyağ kızmaya başlayınca içine cevizler ilave edilip biraz kavrulur. Cevizlere un da ilave edilip önce yüksek ateşte sonra da kısık ateşte 45 dakika boyunca kavrulur. Ateş kapatıldıktan sonra pudra şekeri helvaya ilave edilip iyice yedirerek karıştırılır. Avuç içine bir kaç kat kağıt havlu alınır ve helvadan bir kaşık dolusu alınarak kağıt havlu olan el ile sıkıştırılarak şekil verilir. Sonra şekillenmiş helva kaşıktan tabağa alınır. Bu işlem helva bitene kadar tekrarlanır.<br />
+<em><br />
+not: helva ilk anda yumuşak gelebilir, soğudukça katılaşacaktır. </em></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/21/kasik-helvasi/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

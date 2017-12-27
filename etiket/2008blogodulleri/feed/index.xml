@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2008blogodulleri &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/2008blogodulleri/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>2008blogodulleri &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2008 Blog Ödülleri</title>
+		<link>/2008/04/21/2008-blog-odulleri/</link>
+		<comments>/2008/04/21/2008-blog-odulleri/#comments</comments>
+		<pubDate>Mon, 21 Apr 2008 06:59:05 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[2008blogodulleri]]></category>
+		<category><![CDATA[blogodulleri]]></category>
+		<category><![CDATA[oylama]]></category>
+		<category><![CDATA[oyver]]></category>
+		<category><![CDATA[yarisma]]></category>
+
+		<guid isPermaLink="false">/?p=232</guid>
+		<description><![CDATA[Herkese Merhaba! 2008 Blog Ödülleri halk oylaması başladı. Ben de &#8220;hobi&#8221; kategorisinde yarışıyorum. Blog ödülleri sitesinden hemen üye olup buradan oylarınızı bana verebilirsiniz 🙂]]></description>
+				<content:encoded><![CDATA[<p>Herkese Merhaba!<br />
+<a href="http://2008.blogodulleri.com/Default.aspx">2008 Blog Ödülleri</a> halk oylaması başladı. Ben de &#8220;<a href="http://2008.blogodulleri.com/Bloglar.aspx?KategoriID=24">hobi</a>&#8221; kategorisinde yarışıyorum. Blog ödülleri sitesinden hemen üye olup <a href="http://2008.blogodulleri.com/Oylama.aspx?BID=177">buradan</a> oylarınızı bana verebilirsiniz <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+<a title="oy ver by melda, on Flickr" href="http://www.flickr.com/photos/melda/2430761986/"></a></p>
+<p style="text-align: center;"><img src="http://farm3.static.flickr.com/2034/2430761986_c80417cc12.jpg" alt="oy ver" width="500" height="355" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/21/2008-blog-odulleri/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>ELMA-YE yazısına yapılan yorumlar</title>
+	<atom:link href="/2005/09/15/elma-ye/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/09/15/elma-ye/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: Özgül</title>
+		<link>/2005/09/15/elma-ye/#comment-901</link>
+		<dc:creator><![CDATA[Özgül]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 19:46:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=56#comment-901</guid>
+		<description><![CDATA[Melda ellerine saglik, nefis olduklari besbelli resimlerde ayri bir güzellik vermis.]]></description>
+		<content:encoded><![CDATA[<p>Melda ellerine saglik, nefis olduklari besbelli resimlerde ayri bir güzellik vermis.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: gul</title>
+		<link>/2005/09/15/elma-ye/#comment-900</link>
+		<dc:creator><![CDATA[gul]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 14:47:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=56#comment-900</guid>
+		<description><![CDATA[meldacim cok sirin olmuslar en kisa zamanda kalip alip yapim :)]]></description>
+		<content:encoded><![CDATA[<p>meldacim cok sirin olmuslar en kisa zamanda kalip alip yapim 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Hatice</title>
+		<link>/2005/09/15/elma-ye/#comment-899</link>
+		<dc:creator><![CDATA[Hatice]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 06:08:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=56#comment-899</guid>
+		<description><![CDATA[tartların görüntüsü çok zarif olmuş melda, ellerine sağlık...]]></description>
+		<content:encoded><![CDATA[<p>tartların görüntüsü çok zarif olmuş melda, ellerine sağlık&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: NALAN KAPLAN</title>
+		<link>/2005/09/15/elma-ye/#comment-898</link>
+		<dc:creator><![CDATA[NALAN KAPLAN]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2005 05:48:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=56#comment-898</guid>
+		<description><![CDATA[Melda eline sağlık tartların çok iştah açıcı görünüyor,çok güzel...]]></description>
+		<content:encoded><![CDATA[<p>Melda eline sağlık tartların çok iştah açıcı görünüyor,çok güzel&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Banu Ucak</title>
+		<link>/2005/09/15/elma-ye/#comment-897</link>
+		<dc:creator><![CDATA[Banu Ucak]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2005 19:48:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=56#comment-897</guid>
+		<description><![CDATA[Sevgil Melda bu tarifi hemen kalkıp yapasım geldi aslında ama kendimi tutuyorum! Fotoğraflardaki elmalara bayıldımmmm. Tartı sonra yapsam bile en azından gidip bir elma yiyim bari ;) ellerine sağlık.&lt;br/&gt;sevgiler]]></description>
+		<content:encoded><![CDATA[<p>Sevgil Melda bu tarifi hemen kalkıp yapasım geldi aslında ama kendimi tutuyorum! Fotoğraflardaki elmalara bayıldımmmm. Tartı sonra yapsam bile en azından gidip bir elma yiyim bari 😉 ellerine sağlık.<br />sevgiler</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

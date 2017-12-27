@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sizin sofralarınız &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/sizin-sofralariniz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>sizin sofralarınız &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sizin Sofralarınız</title>
+		<link>/2008/09/12/sizin-sofralariniz/</link>
+		<comments>/2008/09/12/sizin-sofralariniz/#comments</comments>
+		<pubDate>Fri, 12 Sep 2008 13:29:30 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[sizin sofralarınız]]></category>
+
+		<guid isPermaLink="false">/?p=311</guid>
+		<description><![CDATA[Ramazan ayı boyunca, yemekzevki.net okurları olarak, sizlerin sofra ve menü örneklerinizi hepimize fikir olması açısından sitemde yayınlamak istiyorum. Bunun için; sofranızın veya yemeğinizin fotoğrafını, menünüzü veya tariflerinizi isminiz, bulunduğunuz şehir/ülke ile birlikte yemekzevki@gmail.com adresine göndermeniz yeterli. Yayınlanmış sofraları şu sayfadan takip edebilirsiniz. Tariflerinizi ve fotoğraflarınızı bekliyorum…]]></description>
+				<content:encoded><![CDATA[<p>Ramazan ayı boyunca, yemekzevki.net okurları olarak, sizlerin sofra ve menü örneklerinizi hepimize fikir olması açısından sitemde yayınlamak istiyorum. Bunun için; sofranızın veya yemeğinizin fotoğrafını, menünüzü veya tariflerinizi isminiz, bulunduğunuz şehir/ülke ile birlikte <a href="mailto:yemekzevki@gmail.com"><span style="color: #cc6600;">yemekzevki@gmail.com</span></a> adresine göndermeniz yeterli. Yayınlanmış sofraları <a href="/sizin-sofralariniz/">şu sayfadan</a> takip edebilirsiniz.<br />
+Tariflerinizi ve fotoğraflarınızı bekliyorum…</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/12/sizin-sofralariniz/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mücver &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/mucver/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>mücver &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kabak Mücver</title>
+		<link>/2009/09/14/kabak-mucver/</link>
+		<comments>/2009/09/14/kabak-mucver/#comments</comments>
+		<pubDate>Mon, 14 Sep 2009 10:41:36 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[dereotu]]></category>
+		<category><![CDATA[havuç]]></category>
+		<category><![CDATA[kabak]]></category>
+		<category><![CDATA[maydonoz]]></category>
+		<category><![CDATA[mücver]]></category>
+		<category><![CDATA[nane]]></category>
+		<category><![CDATA[sıvıyağ]]></category>
+		<category><![CDATA[taze soğan]]></category>
+
+		<guid isPermaLink="false">/?p=477</guid>
+		<description><![CDATA[Aslında kabak mücver için tam ölçülü bir tarif veremeyeceğim. Sayacağım malzemeleri arzu ettiğiniz kadar ve ikram edeceğiniz kişi sayısına göre karıştırıp bozadan biraz daha yoğun bir bulamaç haline getirmeniz gerekiyor. Kabak (1 kilo kadar) ve havucu (1 irice havuç) çiğ olarak rendeleyip kıydığınız maydonoz, dereotu ve nane ile karıştırın. İçine 2 yumurta kırıp, tuzu ve &#8230; <p class="link-more"><a href="/2009/09/14/kabak-mucver/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kabak Mücver"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3909697560/"><img class="aligncenter" src="http://farm3.static.flickr.com/2621/3909697560_0e3a3513b7.jpg" alt="" width="332" height="500" /></a></p>
+<p>Aslında kabak mücver için tam ölçülü bir tarif veremeyeceğim. Sayacağım malzemeleri arzu ettiğiniz kadar ve ikram edeceğiniz kişi sayısına göre karıştırıp bozadan biraz daha yoğun bir bulamaç haline getirmeniz gerekiyor. Kabak (1 kilo kadar) ve havucu (1 irice havuç) çiğ olarak rendeleyip kıydığınız maydonoz, dereotu ve nane ile karıştırın. İçine 2 yumurta kırıp, tuzu ve doğradığınız taze soğanı da ilave edin. Karışıma un da eklemeniz gerekiyor. Fotoğraftaki kadar mücverler için 3-4 yemek kaşığı un yeterli olacaktır. Daha sonra ayrı bir tavada kızdırdığınız sıvıyağa bulamaçtan birer yemek kaşığı döküp arkalı önlü kızartarak pişirin.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/14/kabak-mucver/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

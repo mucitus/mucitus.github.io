@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kızartma &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kizartma/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kızartma &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Beşamel Soslu Türlü</title>
+		<link>/2010/09/18/besamel-soslu-turlu/</link>
+		<comments>/2010/09/18/besamel-soslu-turlu/#comments</comments>
+		<pubDate>Fri, 17 Sep 2010 23:05:47 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Etli Yemekler]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[güveç]]></category>
+		<category><![CDATA[kızartma]]></category>
+		<category><![CDATA[türlü]]></category>
+
+		<guid isPermaLink="false">/?p=753</guid>
+		<description><![CDATA[Bazen evde çeşitli sebzelerden azar azar dolapta kaldığı olur. İşte bu tarif bu durumlar için. Ben birer adet kabak, patlıcan ve patates ile yaptım. Siz daha da zenginleştirebilirsiniz. Sebzeler soyulup küp küp doğrandıktan sonra ayrı ayrı kızartılır. Sebzeleri kızarttıkça havlu kağıdın üzerine alırsanız fazla yağı havluda kalır. Daha sonra sebzeler karıştırılıp güveç kaplarına pay edilir. &#8230; <p class="link-more"><a href="/2010/09/18/besamel-soslu-turlu/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Beşamel Soslu Türlü"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4999907994/"><img class="aligncenter" src="http://farm5.static.flickr.com/4104/4999907994_b5623c333d.jpg" alt="" width="333" height="500" /></a></p>
+<p>Bazen evde çeşitli sebzelerden azar azar dolapta kaldığı olur. İşte bu tarif bu durumlar için. Ben birer adet kabak, patlıcan ve patates ile yaptım. Siz daha da zenginleştirebilirsiniz.</p>
+<p>Sebzeler soyulup küp küp doğrandıktan sonra ayrı ayrı kızartılır. Sebzeleri kızarttıkça havlu kağıdın üzerine alırsanız fazla yağı havluda kalır. Daha sonra sebzeler karıştırılıp güveç kaplarına pay edilir.<br />
+Ayrı bir tencerede tereyağ eritilip 1-2 yemek kaşığı un ile kavrulur. Süt ve tuz da ilave edilerek kaynatılır. (Bu beşamel sosun miktarını ikram edeceğiniz kişi sayısına göre ayarlayabilirsiniz. Ben sadece iki güveç yaptığımdan az hazırladım.)<br />
+Kuş başı etleri, <a href="/2010/08/27/16-gun-tas-kebabi/">tas kebabı tarifindeki</a> gibi pişirdim ve güveç kaplarına paylaştırdım ama siz arzu ederseniz sadece düdüklüde haşlayabilirsiniz. Beşamel sos, güveç kaplarındaki sebzeli etli karışımın üzerlerine dökülür.<br />
+Kaşar peyniri rendesi de serpilip 200 derecelik fırında kaşarlar eriyip kızarana kadar pişirilir.<br />
+Tarif Merve&#8217;nin blogu, <a href="http://www.hobiriks.com/2010/08/besamel-soslu-turlu.html">Hobiriks</a>&#8216;den..</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4999305171/"><img src="http://farm5.static.flickr.com/4117/4999305171_fc50fbf287.jpg" alt="" width="333" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/18/besamel-soslu-turlu/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

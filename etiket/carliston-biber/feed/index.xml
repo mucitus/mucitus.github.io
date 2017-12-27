@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>çarliston biber &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/carliston-biber/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>çarliston biber &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Közlenmiş Patlıcan ve Biber Salatası</title>
+		<link>/2008/08/14/kozlenmis-patlican-ve-biber-salatasi/</link>
+		<comments>/2008/08/14/kozlenmis-patlican-ve-biber-salatasi/#comments</comments>
+		<pubDate>Thu, 14 Aug 2008 17:07:37 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[biber]]></category>
+		<category><![CDATA[çarliston biber]]></category>
+		<category><![CDATA[domates]]></category>
+		<category><![CDATA[patlıcan]]></category>
+		<category><![CDATA[sarımsak]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+
+		<guid isPermaLink="false">/?p=274</guid>
+		<description><![CDATA[  Bu tarif için ölçüyü, ikram edeceğiniz kişi sayısına göre belirleyebilirsiniz. Patlıcanlar ocakta ateşin üzerinde döndürerek közlenir. Patlıcanların kabukları soyulup bıçakla doğranır. Çarliston biberler de aynı şekilde közlenip, kabukları soyulur. Bu iki malzeme karıştırılır. İçine çiğden domates rendelenir. Bir-iki diş sarımsak, çok az zeytinyağ ve tuz ilave edilip karıştırılır.]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/2762475825/"><img class="aligncenter" src="http://farm4.static.flickr.com/3140/2762475825_a931e13cbb.jpg" alt="" width="332" height="500" /></a></p>
+<p> </p>
+<p>Bu tarif için ölçüyü, ikram edeceğiniz kişi sayısına göre belirleyebilirsiniz.</p>
+<p><strong>Patlıcan</strong>lar ocakta ateşin üzerinde döndürerek közlenir. Patlıcanların kabukları soyulup bıçakla doğranır. <strong>Çarliston biber</strong>ler de aynı şekilde közlenip, kabukları soyulur. Bu iki malzeme karıştırılır. İçine çiğden <strong>domates</strong> rendelenir. Bir-iki diş <strong>sarımsak</strong>, çok az <strong>zeytinyağ</strong> ve <strong>tuz</strong> ilave edilip karıştırılır.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/14/kozlenmis-patlican-ve-biber-salatasi/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

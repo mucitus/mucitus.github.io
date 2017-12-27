@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Yayla Çorbası yazısına yapılan yorumlar</title>
+	<atom:link href="/2010/02/12/yayla-corbasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/02/12/yayla-corbasi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: Lezize</title>
+		<link>/2010/02/12/yayla-corbasi/#comment-3846</link>
+		<dc:creator><![CDATA[Lezize]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2010 13:44:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=539#comment-3846</guid>
+		<description><![CDATA[Yayla çorbasını bilmeyeni camdan aşağı atmak lazım. :D]]></description>
+		<content:encoded><![CDATA[<p>Yayla çorbasını bilmeyeni camdan aşağı atmak lazım. 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: lezzet defteri</title>
+		<link>/2010/02/12/yayla-corbasi/#comment-3845</link>
+		<dc:creator><![CDATA[lezzet defteri]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2010 21:53:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=539#comment-3845</guid>
+		<description><![CDATA[Çok severim ellerine sağlık canım...
+.]]></description>
+		<content:encoded><![CDATA[<p>Çok severim ellerine sağlık canım&#8230;<br />
+.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: sevil</title>
+		<link>/2010/02/12/yayla-corbasi/#comment-3844</link>
+		<dc:creator><![CDATA[sevil]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2010 15:20:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=539#comment-3844</guid>
+		<description><![CDATA[meldacım ellerine saglık]]></description>
+		<content:encoded><![CDATA[<p>meldacım ellerine saglık</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

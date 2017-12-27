@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ekmek kırıntısı &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/ekmek-kirintisi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>ekmek kırıntısı &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Peynirli Taze Otlu Ilık Enginar</title>
+		<link>/2011/05/19/peynirli-taze-otlu-ilik-enginar/</link>
+		<comments>/2011/05/19/peynirli-taze-otlu-ilik-enginar/#comments</comments>
+		<pubDate>Thu, 19 May 2011 10:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[ara sıcak]]></category>
+		<category><![CDATA[dereotu]]></category>
+		<category><![CDATA[ekmek kırıntısı]]></category>
+		<category><![CDATA[enginar]]></category>
+		<category><![CDATA[kaşar peynir]]></category>
+		<category><![CDATA[maydonoz]]></category>
+		<category><![CDATA[peynir]]></category>
+
+		<guid isPermaLink="false">/?p=861</guid>
+		<description><![CDATA[Peynirli enginarı Merve&#8217;nin kayınvalidesi Sabahat Teyze&#8217;de tattık. O da tarifini Oktay Usta&#8217;nın sitesinden almış. Enginar için değişik bir alternatif, sık yapılacalar listemize girdi bile. MALZEMELER 5 enginar iç harcı için; 2 yumurta 1 su bardağı ekmek kırıntısı 1 kase beyaz peynir 50 gr. kaşar peyniri (rendelenecek) 1 tutam maydanoz 1 tutam dereotu 5 yeşil soğan &#8230; <p class="link-more"><a href="/2011/05/19/peynirli-taze-otlu-ilik-enginar/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Peynirli Taze Otlu Ilık Enginar"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5736564022/"><img class="aligncenter" src="http://farm3.static.flickr.com/2046/5736564022_cfe61fa600.jpg" alt="" width="375" height="500" /></a></p>
+<p>Peynirli enginarı Merve&#8217;nin kayınvalidesi Sabahat Teyze&#8217;de tattık. O da tarifini Oktay Usta&#8217;nın <a href="http://www.oktayustam.com/tarifler/17518-peynirli_taze_otlu_ilik_enginar.html">sitesinden</a> almış. Enginar için değişik bir alternatif, sık yapılacalar listemize girdi bile.</p>
+<p><strong>MALZEMELER</strong></p>
+<p>5 enginar</p>
+<p><em>iç harcı için;</em><br />
+2 yumurta<br />
+1 su bardağı ekmek kırıntısı<br />
+1 kase beyaz peynir<br />
+50 gr. kaşar peyniri (rendelenecek)<br />
+1 tutam maydanoz<br />
+1 tutam dereotu<br />
+5 yeşil soğan<br />
+tuz, karabiber<br />
+<em><br />
+garnitürü için;</em><br />
+1 kase karışık yeşillik<br />
+kiraz domates</p>
+<p><strong>YAPILIŞI</strong><br />
+Enginarlar yıkanıp tencereye dizildikten sonra üzerine zeytinyağ gezdirilip enginarların yarısını geçecek kadar su konur. Üzerlerine 1 tatlı kaşığı toz şeker gezdirilip tencerenin boyutu kadar kesilen bir yağlı kağıt ortasına delik açılarak tencerenin üzerine kapatılır.<br />
+İç harcı için olan malzemeler yoğrulup pişmiş olan enginarların ortalarına doldururlur.<br />
+Enginarlar fırın tepsisine veya borcama dizilir. Tencerede kalan pişirme suyu da borcama dökülüp, önceden 180 dereceye ısıtılmış olan fırında iç harç pişene kadar pişirilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/19/peynirli-taze-otlu-ilik-enginar/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>ikiz menüler yazısına yapılan yorumlar</title>
+	<atom:link href="/2012/08/13/ikiz-menuler/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/08/13/ikiz-menuler/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: ceren</title>
+		<link>/2012/08/13/ikiz-menuler/#comment-4959</link>
+		<dc:creator><![CDATA[ceren]]></dc:creator>
+		<pubDate>Tue, 25 Sep 2012 17:06:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1062#comment-4959</guid>
+		<description><![CDATA[enginarlar muhteşem.
+yemek yapmayı profeyonel işim haline getireceğim.izmirde nihayet bir aşçılık okulu açıldı.]]></description>
+		<content:encoded><![CDATA[<p>enginarlar muhteşem.<br />
+yemek yapmayı profeyonel işim haline getireceğim.izmirde nihayet bir aşçılık okulu açıldı.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: ikramlar</title>
+		<link>/2012/08/13/ikiz-menuler/#comment-4957</link>
+		<dc:creator><![CDATA[ikramlar]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2012 23:17:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1062#comment-4957</guid>
+		<description><![CDATA[Kayısı arası fındık ve hurma arası bademler göze hoş geliyor kısa zamanda deniycem teşekkürler..]]></description>
+		<content:encoded><![CDATA[<p>Kayısı arası fındık ve hurma arası bademler göze hoş geliyor kısa zamanda deniycem teşekkürler..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Güneş</title>
+		<link>/2012/08/13/ikiz-menuler/#comment-4956</link>
+		<dc:creator><![CDATA[Güneş]]></dc:creator>
+		<pubDate>Mon, 13 Aug 2012 14:36:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1062#comment-4956</guid>
+		<description><![CDATA[Genelde misafirlerime bende benzer menü uygularım pratik olsun diye.Herşey nefis gözüküyor...]]></description>
+		<content:encoded><![CDATA[<p>Genelde misafirlerime bende benzer menü uygularım pratik olsun diye.Herşey nefis gözüküyor&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: Hatice Mungan</title>
+		<link>/2012/08/13/ikiz-menuler/#comment-4954</link>
+		<dc:creator><![CDATA[Hatice Mungan]]></dc:creator>
+		<pubDate>Mon, 13 Aug 2012 10:39:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1062#comment-4954</guid>
+		<description><![CDATA[Ikiz menü bence de iyi bir fikir. Hem pratik bir cözüm. Ellerinize saglik.]]></description>
+		<content:encoded><![CDATA[<p>Ikiz menü bence de iyi bir fikir. Hem pratik bir cözüm. Ellerinize saglik.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

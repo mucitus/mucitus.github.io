@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>metro &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/metro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>metro &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Metrolu Cocopops</title>
+		<link>/2012/04/02/metrolu-cocopops/</link>
+		<comments>/2012/04/02/metrolu-cocopops/#comments</comments>
+		<pubDate>Mon, 02 Apr 2012 12:42:09 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlı Kurabiyeler]]></category>
+		<category><![CDATA[cocopops]]></category>
+		<category><![CDATA[metro]]></category>
+
+		<guid isPermaLink="false">/?p=990</guid>
+		<description><![CDATA[Bu tarif de beğeniyle takip ettiğim mutfak hatıralarım&#8217;na ait. Lezzet harika, ama benimkilerin görüntüsü için aynı şeyi söyleyemeyeceğim. Çok kolay ve lezzetli bir tarif olduğu için denemenizi tavsiye ederim. MALZEMELER 15 adet için; 250 gr. cocopops 7 adet metro çikolata 1 yemek kaşığı tereyağı 5 yemek kaşığı süt YAPILIŞI mueddibe&#8217;nin anlatımıyla.. Küçük parçalar halinde doğranan &#8230; <p class="link-more"><a href="/2012/04/02/metrolu-cocopops/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Metrolu Cocopops"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/6882745864/"><img class="aligncenter" src="http://farm7.staticflickr.com/6220/6882745864_67ddaf17d0_n.jpg" alt="Untitled" width="320" height="320" /></a></p>
+<p>Bu tarif de beğeniyle takip ettiğim <a href="http://www.mutfakhatiralari.com/?p=1070">mutfak hatıraları</a>m&#8217;na ait. Lezzet harika, ama benimkilerin görüntüsü için aynı şeyi söyleyemeyeceğim. Çok kolay ve lezzetli bir tarif olduğu için denemenizi tavsiye ederim.</p>
+<p><strong>MALZEMELER</strong></p>
+<p>15 adet için;<br />
+250 gr. cocopops<br />
+7 adet metro çikolata<br />
+1 yemek kaşığı tereyağı<br />
+5 yemek kaşığı süt</p>
+<p><strong>YAPILIŞI</strong><br />
+<span style="color: #c0c0c0;"><em>mueddibe&#8217;nin anlatımıyla..</em></span></p>
+<p>Küçük parçalar halinde doğranan metrolar büyük bir tencereye alınarak kısık ateşte eritilir. Tereyağı ve süt eklenerek karıştırılır.</p>
+<p>Hazırlanan karışıma cocopopsun tamamı boşaltılır ve her parçaya çikolata bulaşıncaya kadar karıştırılır. -bu arada tencere hala ocakta, kısık ateşte ve sürekli karıştırıyoruz-</p>
+<p>Şekil vermek için küçük muffin kasesi yahut <a href="http://www.giftssupreme.ie/kitchenware/saucepan-cookware-sets/kitchencraft-cooking-rings.html">cooking rings</a> kullanabilirsiniz.<br />
+Eğer cam veya porselen bir kase kullanacaksanız, kasenin içine karışımdan bastırmadan önce -her seferinde- kaseyi suyla ıslatmalısınız. (cooking rings i ıslatmadan kullanabilirsiniz.)</p>
+<p>Kasenin içini suyla ıslattıktan sonra, karışımdan bastırılır ve metal tepsiye ufak bir vuruşla çıkması sağlanır. -ilk etapta sanki şekil bozulacakmış gibi geliyor ama kısa sürede donuyor-</p>
+<p>Şekiller donduktan sonra çikolatayla süsleyip servis tabağına alabilirsiniz.</p>
+<p>Üzeri için: 80 gr. beyaz çikolata (benmari usulu eritilmiş)</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/04/02/metrolu-cocopops/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

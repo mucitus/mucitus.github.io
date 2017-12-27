@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bakla &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/bakla/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>bakla &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Zeytinyağlı Bakla</title>
+		<link>/2008/03/05/zeytinyagli-bakla/</link>
+		<comments>/2008/03/05/zeytinyagli-bakla/#comments</comments>
+		<pubDate>Wed, 05 Mar 2008 07:02:29 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Zeytinyağlı Yemekler]]></category>
+		<category><![CDATA[bakla]]></category>
+		<category><![CDATA[dereotu]]></category>
+		<category><![CDATA[sarımsak]]></category>
+		<category><![CDATA[soğan]]></category>
+		<category><![CDATA[yoğurt]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+
+		<guid isPermaLink="false">/2008/03/05/zeytinyagli-bakla/</guid>
+		<description><![CDATA[tarif ve fotoğraf annemden&#8230; MALZEMELER 1/2 kg. taze bakla 2 tane kuru soğan 1 diş sarımsak 2 adet kesmeşeker tuz 1/2 çay bardağı zeytinyağı 1 yemek kaşığı un su dereotu yoğurt YAPILIŞI Baklalar ayıklanıp yıkanır. Bir yemek kaşığı un, 1 litre soğuk suya ilave edilir. Baklalar bu unlu suyun içinde 10 dakika bekletilir. Sonra baklaların suyu &#8230; <p class="link-more"><a href="/2008/03/05/zeytinyagli-bakla/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Zeytinyağlı Bakla"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><center><a href="http://www.flickr.com/photos/melda/2311305235/" title="Untitled by melda, on Flickr"><img width="500" src="http://farm3.static.flickr.com/2160/2311305235_7ac5978f3d.jpg" height="375" /></a></center><em>tarif ve fotoğraf annemden&#8230;<br />
+</em><br />
+<strong>MALZEMELER</strong><br />
+1/2 kg. taze bakla<br />
+2 tane kuru soğan<br />
+1 diş sarımsak<br />
+2 adet kesmeşeker<br />
+tuz<br />
+1/2 çay bardağı zeytinyağı<br />
+1 yemek kaşığı un<br />
+su<br />
+dereotu<br />
+yoğurt</p>
+<ul><strong>YAPILIŞI</strong></p>
+<li>Baklalar ayıklanıp yıkanır.</li>
+<li>Bir yemek kaşığı un, 1 litre soğuk suya ilave edilir. Baklalar bu unlu suyun içinde 10 dakika bekletilir.</li>
+<li>Sonra baklaların suyu süzülür ve düdüklü tencereye alınır.</li>
+<li>Üzerine piyazlık doğranmış kuru soğan, bir diş sarımsak, tuz, şeker, zeytinyağı ve yarım çay bardağı su ilave edilir.</li>
+<li>Düdüklü tencerenin kapağı kapatılıp pişirilir, pişen bakla tenceresinde soğutulur.</li>
+<li>Daha sonra servis tabağına alınıp dere otu ile süslenir. Yanında yoğurt ile servis yapılır.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2008/03/05/zeytinyagli-bakla/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

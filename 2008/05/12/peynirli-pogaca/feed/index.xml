@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Peynirli Poğaça yazısına yapılan yorumlar</title>
+	<atom:link href="/2008/05/12/peynirli-pogaca/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/05/12/peynirli-pogaca/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: sinem</title>
+		<link>/2008/05/12/peynirli-pogaca/#comment-2759</link>
+		<dc:creator><![CDATA[sinem]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2008 13:49:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=236#comment-2759</guid>
+		<description><![CDATA[yaptım ama yiyemedim.iftardı bekliyorum ama şunu söyleyebilirim;harika kokuyor :)]]></description>
+		<content:encoded><![CDATA[<p>yaptım ama yiyemedim.iftardı bekliyorum ama şunu söyleyebilirim;harika kokuyor 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: derya sucu</title>
+		<link>/2008/05/12/peynirli-pogaca/#comment-2758</link>
+		<dc:creator><![CDATA[derya sucu]]></dc:creator>
+		<pubDate>Tue, 13 May 2008 16:01:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=236#comment-2758</guid>
+		<description><![CDATA[AMAN DA AMAN ÇOK GÜZEL HAMİLEYİMDE...]]></description>
+		<content:encoded><![CDATA[<p>AMAN DA AMAN ÇOK GÜZEL HAMİLEYİMDE&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

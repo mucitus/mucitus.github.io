@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kup &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kup &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kupta Tramisu</title>
+		<link>/2014/04/11/kupta-tramisu/</link>
+		<comments>/2014/04/11/kupta-tramisu/#comments</comments>
+		<pubDate>Fri, 11 Apr 2014 06:01:39 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlılar]]></category>
+		<category><![CDATA[çilek]]></category>
+		<category><![CDATA[kup]]></category>
+		<category><![CDATA[labne]]></category>
+		<category><![CDATA[muhallebi]]></category>
+		<category><![CDATA[sütlü tatlı]]></category>
+		<category><![CDATA[tramisu]]></category>
+
+		<guid isPermaLink="false">/?p=1502</guid>
+		<description><![CDATA[Kupta tramisunun tarifini instagram&#8217;da sumeyyeomer&#8217;den aldım. Ben hemen hemen her misafirime severek yapıyorum, umarım siz de beğenirsiniz. MALZEMELER 1 litre süt 2 yumurta sarısı 400 gr. labne peyniri 4 yemek kaşığı un 3,5 çay bardağı şeker 2 paket vanilya kedidili bisküvileri ıslatmak için; 2 bardak sıcak su 2 yemek kaşığı nescafe 2 paket kedidili bisküvi &#8230; <p class="link-more"><a href="/2014/04/11/kupta-tramisu/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kupta Tramisu"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by Melda, on Flickr" href="https://www.flickr.com/photos/melda/13321938213"><img alt="Untitled" src="https://farm3.staticflickr.com/2836/13321938213_24bb82510d.jpg" width="375" height="500" /></a></p>
+<p>Kupta tramisunun tarifini instagram&#8217;da sumeyyeomer&#8217;den aldım. Ben hemen hemen her misafirime severek yapıyorum, umarım siz de beğenirsiniz.</p>
+<p><strong>MALZEMELER</strong><br />
+1 litre süt<br />
+2 yumurta sarısı<br />
+400 gr. labne peyniri<br />
+4 yemek kaşığı un<br />
+3,5 çay bardağı şeker<br />
+2 paket vanilya<br />
+<em>kedidili bisküvileri ıslatmak için;</em><br />
+2 bardak sıcak su<br />
+2 yemek kaşığı nescafe<br />
+2 paket kedidili bisküvi<br />
+<em>üzeri için;</em><br />
+arzu ederseniz kakao eleyebilirsiniz ya da benim gibi rulokat, fıstık ve çilekle de süsleyebilirsiniz.</p>
+<p><strong>YAPILIŞI</strong><br />
+Muhallebi malzemelerinden labne ve vanilya hariç olanlar bir tencerede sürekli karıştırılarak kaynatılır. Biraz ılıdıktan sonra içine labne ve vanilya da ilave edilip çırpılır.<br />
+Her kup için bir adet kedidili ikiye bölünerek nescafeli karışımla ıslatılır ve kupun içine yerleştirilir. Sizin kuplarınız daha büyükse iki adet kedidili bisküvisi de kullanabilirsiniz. Muhallebi kuplara pay edildikten sonra üzerleri süslenip soğuk olarak servis edilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/11/kupta-tramisu/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

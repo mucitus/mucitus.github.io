@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Sakızlı Muhallebi yazısına yapılan yorumlar</title>
+	<atom:link href="/2009/03/26/sakizli-muhallebi/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/03/26/sakizli-muhallebi/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: anne</title>
+		<link>/2009/03/26/sakizli-muhallebi/#comment-3415</link>
+		<dc:creator><![CDATA[anne]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 11:55:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=413#comment-3415</guid>
+		<description><![CDATA[Meldacım,
+Sakızlı muhallebin çok güzel görünüyor.
+Çok eskiden yaptığımız bir tarif, hatırlattığın iyi oldu kızım, ellerine sağlık.]]></description>
+		<content:encoded><![CDATA[<p>Meldacım,<br />
+Sakızlı muhallebin çok güzel görünüyor.<br />
+Çok eskiden yaptığımız bir tarif, hatırlattığın iyi oldu kızım, ellerine sağlık.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: sena</title>
+		<link>/2009/03/26/sakizli-muhallebi/#comment-3414</link>
+		<dc:creator><![CDATA[sena]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2009 04:54:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=413#comment-3414</guid>
+		<description><![CDATA[bugün aile dersimiz var yemekli.yeni bişiler denicektim tatlı.Bu çok hafif tam benlik:)abartısız malzeme ve pratik:) çok güzel görünüyor ellerine sağlık cnm...]]></description>
+		<content:encoded><![CDATA[<p>bugün aile dersimiz var yemekli.yeni bişiler denicektim tatlı.Bu çok hafif tam benlik:)abartısız malzeme ve pratik:) çok güzel görünüyor ellerine sağlık cnm&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

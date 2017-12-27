@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Buzlu Çay yazısına yapılan yorumlar</title>
+	<atom:link href="/2005/06/16/buzlu-cay/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/06/16/buzlu-cay/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 20 Jul 2017 08:26:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Yazar: nazlı</title>
+		<link>/2005/06/16/buzlu-cay/#comment-438</link>
+		<dc:creator><![CDATA[nazlı]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2008 10:17:32 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=34#comment-438</guid>
+		<description><![CDATA[buzlu çay süper ya insan iç iç tadına doyamıo süper ya bundna snr hep buzlu çay iççem]]></description>
+		<content:encoded><![CDATA[<p>buzlu çay süper ya insan iç iç tadına doyamıo süper ya bundna snr hep buzlu çay iççem</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: gül</title>
+		<link>/2005/06/16/buzlu-cay/#comment-437</link>
+		<dc:creator><![CDATA[gül]]></dc:creator>
+		<pubDate>Wed, 21 May 2008 21:03:26 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=34#comment-437</guid>
+		<description><![CDATA[sitenizi çok beğendim
+ya ben göremedim ya da pasta kategorisi eksik
+sizden bir de limonata tarifi rica ediyorum
+herkesin ayarı farklı sizden de lezzetli bir tarif beklentisi içineyim]]></description>
+		<content:encoded><![CDATA[<p>sitenizi çok beğendim<br />
+ya ben göremedim ya da pasta kategorisi eksik<br />
+sizden bir de limonata tarifi rica ediyorum<br />
+herkesin ayarı farklı sizden de lezzetli bir tarif beklentisi içineyim</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: merrhaba</title>
+		<link>/2005/06/16/buzlu-cay/#comment-436</link>
+		<dc:creator><![CDATA[merrhaba]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2008 19:45:27 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=34#comment-436</guid>
+		<description><![CDATA[gerçektenn çok güzel bir tarif]]></description>
+		<content:encoded><![CDATA[<p>gerçektenn çok güzel bir tarif</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Yazar: fethiye</title>
+		<link>/2005/06/16/buzlu-cay/#comment-435</link>
+		<dc:creator><![CDATA[fethiye]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2005 19:22:00 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/?p=34#comment-435</guid>
+		<description><![CDATA[Melda, bu Cayi bir de guneste demlemeyi denemeni tavsiye ederim. O zaman seker eklemene bile gerek kalmayabilir.  :)  Sitemde anlatmistim, gerci zor bir sey degil ama fikir guzel.]]></description>
+		<content:encoded><![CDATA[<p>Melda, bu Cayi bir de guneste demlemeyi denemeni tavsiye ederim. O zaman seker eklemene bile gerek kalmayabilir.  🙂  Sitemde anlatmistim, gerci zor bir sey degil ama fikir guzel.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

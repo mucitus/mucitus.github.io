@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sergi &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/sergi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>sergi &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>İyi bir fotoğraf omuzun üstünden meleği göstermelidir &#124; Fotoğraf Sergisi</title>
+		<link>/2008/11/07/iyi-bir-fotograf-omuzun-ustunden-melegi-gostermelidir-fotograf-sergisi/</link>
+		<comments>/2008/11/07/iyi-bir-fotograf-omuzun-ustunden-melegi-gostermelidir-fotograf-sergisi/#comments</comments>
+		<pubDate>Fri, 07 Nov 2008 07:20:42 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[fotoğraf]]></category>
+		<category><![CDATA[sergi]]></category>
+
+		<guid isPermaLink="false">/?p=353</guid>
+		<description><![CDATA[Çektiği süper fotoğrafları ince espirileriyle süsleyen arkadaşım Züleyha&#8216;nın bugün BSF Akademi&#8217;de fotoğraf sergisi başlıyor. Sergi 7 Kasım Cuma günü, yani bugün 14:30&#8217;da açılacak ve 15 Kasım&#8217;a kadar devam edecek. Mutlaka gezmenizi tavsiye ederim. Adres: ÖZEL BSF EĞİTİM KURUMLARI İstiklal Caddesi, Odakule Yanı, no: 140 , Beyoğlu]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2037/2380506584_175af7f428.jpg" alt="" /></p>
+<p style="text-align: left;">Çektiği süper fotoğrafları ince espirileriyle süsleyen arkadaşım <a href="http://hepatitze.com/?p=575">Züleyha</a>&#8216;nın bugün BSF Akademi&#8217;de fotoğraf sergisi başlıyor. Sergi 7 Kasım Cuma günü, yani bugün 14:30&#8217;da açılacak ve 15 Kasım&#8217;a kadar devam edecek. Mutlaka gezmenizi tavsiye ederim.</p>
+<p>Adres: ÖZEL BSF EĞİTİM KURUMLARI İstiklal Caddesi, Odakule Yanı, no: 140 , Beyoğlu</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://farm3.static.flickr.com/2269/2324078988_830801ffe7_m.jpg" alt="" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/07/iyi-bir-fotograf-omuzun-ustunden-melegi-gostermelidir-fotograf-sergisi/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

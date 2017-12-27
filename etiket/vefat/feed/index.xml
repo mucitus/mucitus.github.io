@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vefat &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/vefat/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>vefat &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>dedem..</title>
+		<link>/2009/10/16/dedem/</link>
+		<comments>/2009/10/16/dedem/#comments</comments>
+		<pubDate>Fri, 16 Oct 2009 07:59:48 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[dede]]></category>
+		<category><![CDATA[vefat]]></category>
+
+		<guid isPermaLink="false">/?p=483</guid>
+		<description><![CDATA[Geçriğimiz Pazar günü annemin babası, dedem vefat etti. Hala artık aramızda olmadığına inanamıyorum. Sanki kapı çalacak ve dedem gelecekmiş gibi.. Onu dualarla anıyoruz. Yardımseverliğini, neşesini hiç unutmayacağım. Mekanın cennet olsun dedeciğim. Seni çok özlüyoruz&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Geçriğimiz Pazar günü annemin babası, dedem vefat etti. Hala artık aramızda olmadığına inanamıyorum. Sanki kapı çalacak ve dedem gelecekmiş gibi.. Onu dualarla anıyoruz. Yardımseverliğini, neşesini hiç unutmayacağım. Mekanın cennet olsun dedeciğim. Seni çok özlüyoruz&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/16/dedem/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+		</item>
+	</channel>
+</rss>

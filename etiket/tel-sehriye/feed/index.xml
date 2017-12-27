@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tel şehriye &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/tel-sehriye/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>tel şehriye &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Patates Topları</title>
+		<link>/2013/12/09/patates-toplari-2/</link>
+		<comments>/2013/12/09/patates-toplari-2/#comments</comments>
+		<pubDate>Mon, 09 Dec 2013 07:24:06 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Etli Yemekler]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[köfte]]></category>
+		<category><![CDATA[nişasta]]></category>
+		<category><![CDATA[patates]]></category>
+		<category><![CDATA[tel şehriye]]></category>
+
+		<guid isPermaLink="false">/?p=1231</guid>
+		<description><![CDATA[Eylül ayındaki sofrasının tariflerini yıl sonuna kadar eklemeye devam eden benim gibi başka blogcu yoktur herhalde 🙂 Aslında bu tarif annemin blogunda var, ama ben buraya da eklemek istedim. Kızartılarak yapılan bu patates topları, benim nişastasını az koymam sebebiyle kızartmak için yağa atınca dağıldı. Ben de yağlı kağıt serili fırın kabında pişirdim, fena olmadı 🙂 &#8230; <p class="link-more"><a href="/2013/12/09/patates-toplari-2/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Patates Topları"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/11218437495/"><img class="aligncenter" alt="Untitled" src="http://farm8.staticflickr.com/7379/11218437495_e316ba5f09_z.jpg" width="427" height="640" /></a></p>
+<p>Eylül ayındaki sofrasının tariflerini yıl sonuna kadar eklemeye devam eden benim gibi başka blogcu yoktur herhalde <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Aslında bu tarif annemin blogunda var, ama ben buraya da eklemek istedim. Kızartılarak yapılan bu patates topları, benim nişastasını az koymam sebebiyle kızartmak için yağa atınca dağıldı. Ben de yağlı kağıt serili fırın kabında pişirdim, fena olmadı <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>MALZEMELER</strong><br />
+4-5 patates<br />
+2 yumurta (sarısı içine, akı dışına)<br />
+1 yemek kaşığı nişasta<br />
+tuz, karabiber, nane, kimyon<br />
+dereotu (ben kullanmadım)<br />
+tel şehriye</p>
+<p><strong>YAPILIŞI</strong><br />
+Patatesler haşlanır, kabukları soyulup rendelenir. Yumurta sarısı, nişasta, tuz, karabiber, nane, kimyon ve dereotu da katılıp yoğrulur. Ceviz kadar toplar yapılıp yumurta akına bulandıktan sonra tel şehriyeye batırılır. Kızgın yağda kızartılır.</p>
+<p>Fotoğraftaki köftelerin tarifine <a href="/2011/08/22/iftar-menusu-top-top-kofte/">şuradan</a> ulaşabilirsiniz.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/12/09/patates-toplari-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

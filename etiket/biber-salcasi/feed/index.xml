@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>biber salçası &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/biber-salcasi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>biber salçası &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Domates Çorbası</title>
+		<link>/2008/10/10/domates-corbasi/</link>
+		<comments>/2008/10/10/domates-corbasi/#comments</comments>
+		<pubDate>Fri, 10 Oct 2008 10:15:09 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Çorbalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[biber salçası]]></category>
+		<category><![CDATA[domates]]></category>
+		<category><![CDATA[domates salçası]]></category>
+		<category><![CDATA[kaşar peynir]]></category>
+		<category><![CDATA[salça]]></category>
+		<category><![CDATA[tereyağ]]></category>
+		<category><![CDATA[un]]></category>
+
+		<guid isPermaLink="false">/?p=329</guid>
+		<description><![CDATA[MALZEMELER 2 yemek kaşığı un 1&#8217;er yemek kaşığı tereyağ ve sıvıyağ 1&#8217;er tatlı kaşığı domates salçası ve biber salçası 5 domates 5 su bardağı su yarım çay bardağı süt tuz üzeri için; rendelenmiş kaşar peynir YAPILIŞI Bir tencerede un, tereyağ ve sıvıyağ ile birlikte kavrulur. Domatesler rendelenip, salçayla beraber kavrulan una ilave edilir. Su da &#8230; <p class="link-more"><a href="/2008/10/10/domates-corbasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Domates Çorbası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/2925265026/"><img class="aligncenter" src="http://farm4.static.flickr.com/3037/2925265026_b0d8ec2796.jpg" alt="" width="375" height="500" /></a></p>
+<p><strong>MALZEMELER</strong></p>
+<p>2 yemek kaşığı un<br />
+1&#8217;er yemek kaşığı tereyağ ve sıvıyağ<br />
+1&#8217;er tatlı kaşığı domates salçası ve biber salçası<br />
+5 domates<br />
+5 su bardağı su<br />
+yarım çay bardağı süt<br />
+tuz<br />
+üzeri için;<br />
+rendelenmiş kaşar peynir</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>Bir tencerede un, tereyağ ve sıvıyağ ile birlikte kavrulur. Domatesler rendelenip, salçayla beraber kavrulan una ilave edilir. Su da eklendikten sonra karıştırılarak çorba kaynatılır. Kaynayan çorba tel süzgeçten geçirilir. Süt ve tuz da ilave edilip bir taşım daha kaynatılır. Servis sırasında üzerine rendelenmiş kaşar peynir serpilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/10/domates-corbasi/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

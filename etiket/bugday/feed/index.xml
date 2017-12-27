@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>buğday &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/bugday/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>buğday &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Keşkek</title>
+		<link>/2008/05/15/keskek/</link>
+		<comments>/2008/05/15/keskek/#comments</comments>
+		<pubDate>Thu, 15 May 2008 19:30:45 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Etli Yemekler]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Yemekler]]></category>
+		<category><![CDATA[buğday]]></category>
+		<category><![CDATA[et]]></category>
+
+		<guid isPermaLink="false">/?p=239</guid>
+		<description><![CDATA[Yine Mualla Abla&#8217;dan keşkek tarifi. MALZEMELER 1 Kg. Buğday Bir bütün kuzu (veya koyun) boynu Tereyağ Tane karabiber Tuz   YAPILIŞI Akşamdan yıkanmış buğday bir tencereye konur ve üzerini taşacak kadar su ilave edilip kısık ateşte yarım saat kaynatılır. Ateşten indirilen tencere bir sofra bezine sarılarak sıcak kalması sağlanır. Sabaha kadar buğday iyice şişmiş olur. &#8230; <p class="link-more"><a href="/2008/05/15/keskek/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Keşkek"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/2494707877/"><img class="aligncenter" src="http://farm3.static.flickr.com/2050/2494707877_dc30a56dbc.jpg" alt="" width="375" height="500" /></a></p>
+<p>Yine Mualla Abla&#8217;dan keşkek tarifi.</p>
+<p><strong>MALZEMELER</strong></p>
+<p>1 Kg. Buğday<br />
+Bir bütün kuzu (veya koyun) boynu<br />
+Tereyağ<br />
+Tane karabiber<br />
+Tuz<br />
+ <br />
+<strong>YAPILIŞI</strong></p>
+<p>Akşamdan yıkanmış buğday bir tencereye konur ve üzerini taşacak kadar su ilave edilip kısık ateşte yarım saat kaynatılır. Ateşten indirilen tencere bir sofra bezine sarılarak sıcak kalması sağlanır. Sabaha kadar buğday iyice şişmiş olur.<br />
+Boyun eti ayrı bir tencerede tane karabiber ile bir miktar su içinde haşlanır. Haşlanan et, kemiklerinden ayrılıp didiklenir (etin yağları üstünde kalmalı). Bu et erimiş tereyağında lif lif olana kadar kavrulur.<br />
+Sonra et ve buğday karıştırılır. Bu karışım kısık ateşte pişirilirken büyük bir tahta kaşık ile et ve buğday tencerenin yanlarına vura vura birbirine kaynaştırılır. Bu işlem sırasında et suyu, tereyağı ve tuz da ilave edilerek mayonez kıvamına getirilir. Servis yapılırken üzerine tereyağlı kırmızı biber gezdirilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/15/keskek/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

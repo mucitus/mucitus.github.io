@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pazı &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/pazi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>pazı &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pazılı Tavuk</title>
+		<link>/2010/05/07/pazili-tavuk/</link>
+		<comments>/2010/05/07/pazili-tavuk/#comments</comments>
+		<pubDate>Fri, 07 May 2010 15:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[havuç]]></category>
+		<category><![CDATA[kaşar peynir]]></category>
+		<category><![CDATA[pazı]]></category>
+		<category><![CDATA[tavuk]]></category>
+
+		<guid isPermaLink="false">/?p=607</guid>
+		<description><![CDATA[MALZEMELER 1 kg. tavuk göğüs eti (kuş başı) 1 adet havuç (rendelenecek) 1 demet pazı (doğranacak) 2-3 yemek kaşığı sıvı yağ 1 paket kremalı mantar çorbası (toz halinde) 250 gr. doğranmış mantar karabiber üzeri için; rendelenmiş kaşar peyniri YAPILIŞI Kaşar peynir hariç bütün malzemeler karıştırılıp, büyük boy tırtıklı bir borcama dökülür. Borcamın ağzı alüminyum folyo &#8230; <p class="link-more"><a href="/2010/05/07/pazili-tavuk/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Pazılı Tavuk"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4555225567/"><img class="aligncenter" src="http://farm4.static.flickr.com/3226/4555225567_e6fdddb046.jpg" alt="" width="333" height="500" /></a></p>
+<p><strong>MALZEMELER</strong></p>
+<p>1 kg. tavuk göğüs eti (kuş başı)<br />
+1 adet havuç (rendelenecek)<br />
+1 demet pazı (doğranacak)<br />
+2-3 yemek kaşığı sıvı yağ<br />
+1 paket kremalı mantar çorbası (toz halinde)<br />
+250 gr. doğranmış mantar<br />
+karabiber<br />
+<em>üzeri için;</em><br />
+rendelenmiş kaşar peyniri</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>Kaşar peynir hariç bütün malzemeler karıştırılıp, büyük boy tırtıklı bir borcama dökülür. Borcamın ağzı alüminyum folyo  ile kapatılarak, 180 derecedeki fırında pişirilir. Tavuklar biraz piştiğinde folyo açılıp üzerine kaşar peyniri rendelenir ve kaşar peynir eriyene kadar tekrar fırında pişirilir. Sıcak sıcak  servis yapılır.</p>
+<p><strong>Not:</strong> Mevsimine göre pazı yerine kabak rendelenerek de yapılabilir.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4555230639/"><img class="aligncenter" src="http://farm4.static.flickr.com/3566/4555230639_329c2f063b.jpg" alt="" width="333" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/07/pazili-tavuk/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

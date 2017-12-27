@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kayısı &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/kayisi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>kayısı &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kayısılı Karamelli Muhallebi</title>
+		<link>/2012/03/21/kayisili-karamelli-muhallebi/</link>
+		<comments>/2012/03/21/kayisili-karamelli-muhallebi/#comments</comments>
+		<pubDate>Wed, 21 Mar 2012 08:16:56 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlılar]]></category>
+		<category><![CDATA[gün kurusu]]></category>
+		<category><![CDATA[karamel]]></category>
+		<category><![CDATA[kayısı]]></category>
+		<category><![CDATA[muhallebi]]></category>
+
+		<guid isPermaLink="false">/?p=978</guid>
+		<description><![CDATA[MALZEMELER Yarım kilo gün kurusu kayısı yarım su bardağı şeker dövülmüş fındık muhallebisi için; 1 lt. süt 2 kahve fincanı un 2 kahve fincanı şeker 200 gr. tereyağ karameli için; 1 su bardağı şeker 125 gr. tereyağ (yarım paket) yarım paket çiğ krema YAPILIŞI Kayısılar küçük küçük doğranıp, şekerle ve az su ile pişirilir. İri &#8230; <p class="link-more"><a href="/2012/03/21/kayisili-karamelli-muhallebi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kayısılı Karamelli Muhallebi"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/7002309435/"><img class="aligncenter" src="http://farm8.staticflickr.com/7183/7002309435_c3290c049c_z.jpg" alt="" width="478" height="640" /></a></p>
+<p><strong>MALZEMELER</strong><br />
+Yarım kilo gün kurusu kayısı<br />
+yarım su bardağı şeker<br />
+dövülmüş fındık<br />
+<em><br />
+muhallebisi için;</em><br />
+1 lt. süt<br />
+2 kahve fincanı un<br />
+2 kahve fincanı şeker<br />
+200 gr. tereyağ</p>
+<p><em>karameli için;</em><br />
+1 su bardağı şeker<br />
+125 gr. tereyağ (yarım paket)<br />
+yarım paket çiğ krema</p>
+<p><strong>YAPILIŞI</strong><br />
+Kayısılar küçük küçük doğranıp, şekerle ve az su ile pişirilir. İri çekilmiş fındık kırığı soğuyan kayısı ile karıştırılır. Bu karışım büyük boy tırtıklı borcamın altına yerleştirilir.</p>
+<p>Muhallebi için olan malzemeler yağ hariç pişirilir. Piştikten sonra yağ ilave edilip çırpılır.<br />
+Kayısıların üzeri muhallebi ile kaplanır.</p>
+<p>Karamel için, önce şeker harlı ateşte yanlarından erimeye başlayana kadar beklenir. Şeker iyice erimeye başladığında yavaş yavaş çırpma teliyle karıştırılarak şekerin tamamının erimesi sağlanır. Bu aşamada tereyağ ilave edilip iyice eriyinceye kadar hızlıca karıştırılır. Tereyağ eridikten sonra ocaktan alınıp krema ilave edilerek hızılıca karıştırılmaya devam edilir. Karışım homojen bir hal alana kadar devam edilir.<br />
+Servis sırasında muhallebi dilimlerinin üzerlerine karamel sos gezdirilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/03/21/kayisili-karamelli-muhallebi/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		</item>
+	</channel>
+</rss>

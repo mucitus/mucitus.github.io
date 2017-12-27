@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rudra şekeri &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/rudra-sekeri/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>rudra şekeri &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kuru Baklava</title>
+		<link>/2009/06/21/kuru-baklava/</link>
+		<comments>/2009/06/21/kuru-baklava/#comments</comments>
+		<pubDate>Sun, 21 Jun 2009 12:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlı Kurabiyeler]]></category>
+		<category><![CDATA[baklavalık yufka]]></category>
+		<category><![CDATA[ceviz]]></category>
+		<category><![CDATA[rudra şekeri]]></category>
+		<category><![CDATA[rulo]]></category>
+		<category><![CDATA[tahin]]></category>
+
+		<guid isPermaLink="false">/?p=450</guid>
+		<description><![CDATA[MALZEMELER 3 tane baklavalık hazır yufka 3-4 yemek kaşığı erimiş tereyağ 3 yemek kaşığı tahin 3 yemek kaşığı ceviz 3 yemek kaşığı şeker üzeri için; pudra şekeri YAPILIŞI Birinci yufka tezgaha yayılıp üzerine tereyağ sürülür, bunun üzerine ikinci yufka serilir ve bunun da üzerine yağ sürülür. Üçüncü yufka da en üste serilirek üzeri yağlanır. Yufkanın &#8230; <p class="link-more"><a href="/2009/06/21/kuru-baklava/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kuru Baklava"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3644712917/"><img class="aligncenter" src="http://farm4.static.flickr.com/3569/3644712917_452bf568a8.jpg" alt="" width="332" height="500" /></a></p>
+<p><strong>MALZEMELER</strong><br />
+3 tane baklavalık hazır yufka<br />
+3-4 yemek kaşığı erimiş tereyağ<br />
+3 yemek kaşığı tahin<br />
+3 yemek kaşığı ceviz<br />
+3 yemek kaşığı şeker<br />
+üzeri için; pudra şekeri</p>
+<p><strong>YAPILIŞI</strong><br />
+Birinci yufka tezgaha yayılıp üzerine tereyağ sürülür, bunun üzerine ikinci yufka serilir ve bunun da üzerine yağ sürülür. Üçüncü yufka da en üste serilirek üzeri yağlanır. Yufkanın üzerini tamamen kaplayacak şekilde  tahin, ceviz ve şeker ayrı ayrı serpilir.<br />
+Bu kat kat yufka çok sıkı olmayacak şekilde rulo haline getirilir, verevine olarak baklava dilimi şeklinde kesilir. Yağlı kağıt konmuş tepsiye dizilerek üzerlerine erimiş tereyağ sürülür, 160 derecede üstü hafif pembeleşene kadar pişirilir. Soğuduktan sonra üzerine pudra şekeri serpilir.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/21/kuru-baklava/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+	</channel>
+</rss>

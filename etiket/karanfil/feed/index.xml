@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>karanfil &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/karanfil/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>karanfil &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ayva Tatlısı</title>
+		<link>/2010/12/05/ayva-tatlisi/</link>
+		<comments>/2010/12/05/ayva-tatlisi/#comments</comments>
+		<pubDate>Sun, 05 Dec 2010 18:55:03 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[Tatlılar]]></category>
+		<category><![CDATA[ayva]]></category>
+		<category><![CDATA[fıstık]]></category>
+		<category><![CDATA[karanfil]]></category>
+		<category><![CDATA[kaymak]]></category>
+		<category><![CDATA[tatlı]]></category>
+
+		<guid isPermaLink="false">/?p=789</guid>
+		<description><![CDATA[Herzaman olduğu gibi yine annemden güzel bir tarifle karşınızdayım. Aslında meyveli tatlılarla pek aram yoktur ama hem pratik oluşu, hem de birçok kişi tarafından beğenilmesi sebebiyle ben de misafirlerim için hazırlayabilirim. Öncelikle arzu ettiğiniz miktarda ayvayı yıkayıp kabuklarını soyun. İkiye bölüp çekirdeklerini temizleyin. Bu işlemi uygularken ilk soyduğunuz ayvaların kararmaması için soyduklarınızı limonlu suda bekletin. &#8230; <p class="link-more"><a href="/2010/12/05/ayva-tatlisi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Ayva Tatlısı"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5231020219/"><img class="aligncenter" src="http://farm6.static.flickr.com/5008/5231020219_398dd5998a.jpg" alt="" width="333" height="500" /></a></p>
+<p>Herzaman olduğu gibi yine annemden güzel bir tarifle karşınızdayım. Aslında meyveli tatlılarla pek aram yoktur ama hem pratik oluşu, hem de birçok kişi tarafından beğenilmesi sebebiyle ben de misafirlerim için hazırlayabilirim.</p>
+<p>Öncelikle arzu ettiğiniz miktarda ayvayı yıkayıp kabuklarını soyun. İkiye bölüp çekirdeklerini temizleyin. Bu işlemi uygularken ilk soyduğunuz ayvaların kararmaması için soyduklarınızı limonlu suda bekletin.<br />
+Yayvan ve geniş bir tencereye ayvaların çukur kısımları üste gelecek şekilde dizin. Ayvalardan birinin kabuklarını ve çekirdeklerinden de bolca tencereye ilave edin. Çekirdekler ayvaların kırmızı rengi almasını sağlıyor.<br />
+Büyük servis kaşığı ile ölçerek her bir ayvanın üzerine 1,5 servis kaşığı toz şeker ekleyin. 1-2 karanfil ve yarım su bardağı su da ilave edin ve tencerenin kapağını kapatın.<br />
+Ayvaları su kaynayana kadar harlı ateşte pişirip sonra ocağın altını kısın. Bu şekilde ayvalar yumuşayıp, suyu jöle kıvamına gelene kadar bir kaç saat <span style="text-decoration: underline;">kısık ateşte</span> pişirin.<br />
+Pişen ayvaların üzerlerine servis sırasında kaymak koyup, yeşil fıstık serperek süsleyin.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/05/ayva-tatlisi/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		</item>
+	</channel>
+</rss>

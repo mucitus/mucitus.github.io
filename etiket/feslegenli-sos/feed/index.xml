@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fesleğenli sos &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/feslegenli-sos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>fesleğenli sos &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Çiğ Kabak Salatası</title>
+		<link>/2009/07/12/cig-kabak-salatasi/</link>
+		<comments>/2009/07/12/cig-kabak-salatasi/#comments</comments>
+		<pubDate>Sun, 12 Jul 2009 13:03:09 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Salatalar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[dereotu]]></category>
+		<category><![CDATA[fesleğenli sos]]></category>
+		<category><![CDATA[jülyen]]></category>
+		<category><![CDATA[kabak]]></category>
+		<category><![CDATA[limon]]></category>
+		<category><![CDATA[maydonoz]]></category>
+		<category><![CDATA[salatalık]]></category>
+		<category><![CDATA[zeytinyağ]]></category>
+
+		<guid isPermaLink="false">/?p=453</guid>
+		<description><![CDATA[Kabaklar soyulup çiğ olarak çekirdekli kısımlarına kadar jülyen soyucu ile doğranır. Ayrıca salatalıklar da kabuklarıyla birlikte bu şekilde doğranıp kabaklara ilave edilir. Bol dereotu ve maydonoz da doğranıp kabaklara ilave edilir. Sos olarak da; hazır feslenleğenli sos zeytinyağ ve limon suyu ile karıştırılıp servisten hemen önce dökülür. Yaz günleri için ferah ve pratik bir salata.. &#8230; <p class="link-more"><a href="/2009/07/12/cig-kabak-salatasi/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Çiğ Kabak Salatası"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/3712947796/"><img class="aligncenter" src="http://farm3.static.flickr.com/2230/3712947796_0392dfc56e.jpg" alt="" width="332" height="500" /></a></p>
+<p>Kabaklar soyulup çiğ olarak çekirdekli kısımlarına kadar jülyen soyucu ile doğranır. Ayrıca salatalıklar da kabuklarıyla birlikte bu şekilde doğranıp kabaklara ilave edilir. Bol dereotu ve maydonoz da doğranıp kabaklara ilave edilir. Sos olarak da; hazır feslenleğenli sos zeytinyağ ve limon suyu ile karıştırılıp servisten hemen önce dökülür.</p>
+<p>Yaz günleri için ferah ve pratik bir salata.. Yiyen kimse kabakların çiğ olduğuna inanamıyor, ben dahil..</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/07/12/cig-kabak-salatasi/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>
