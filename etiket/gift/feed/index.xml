@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gift &#8211; Yemek Zevki</title>
+	<atom:link href="/etiket/gift/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>gift &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kavanozda Hediye</title>
+		<link>/2010/02/11/kavanozda-hediye/</link>
+		<comments>/2010/02/11/kavanozda-hediye/#comments</comments>
+		<pubDate>Thu, 11 Feb 2010 21:32:02 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Muhtelif Konular]]></category>
+		<category><![CDATA[cookie mix]]></category>
+		<category><![CDATA[gift]]></category>
+		<category><![CDATA[gift in a jar]]></category>
+		<category><![CDATA[hediye]]></category>
+		<category><![CDATA[kavanozda kurabiye]]></category>
+		<category><![CDATA[kurabiye karışımı]]></category>
+
+		<guid isPermaLink="false">/?p=520</guid>
+		<description><![CDATA[Uzun zamandır yabancı bloglarda &#8220;gift in a jar&#8221; adıyla gördüğüm hediye fikrini hayata geçirmek istiyordum. Gift in a jar yani kavanozda hediye, bir kurabiye ya da kek tarifinin kuru malzemelerinin katmanlar halinde bir kavanoza doldurulup, tarifinin de yanına iliştirilmesiyle oluşturuluyor. Ben de bir kaç ay önce arkadaşlarla yaptığımız hediye çekilişi için, fotoğraftaki kavanoz kurabiye karışımını &#8230; <p class="link-more"><a href="/2010/02/11/kavanozda-hediye/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Kavanozda Hediye"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/4193727114/"><img class="aligncenter" src="http://farm3.static.flickr.com/2718/4193727114_ec2c17e326.jpg" alt="" width="375" height="500" /></a></p>
+<p style="text-align: left;">
+<p>Uzun zamandır yabancı bloglarda &#8220;gift in a jar&#8221; adıyla gördüğüm hediye fikrini hayata geçirmek istiyordum. Gift in a jar yani kavanozda hediye, bir kurabiye ya da kek tarifinin kuru malzemelerinin katmanlar halinde bir kavanoza doldurulup, tarifinin de yanına iliştirilmesiyle oluşturuluyor.</p>
+<p>Ben de bir kaç ay önce arkadaşlarla yaptığımız hediye çekilişi için, fotoğraftaki kavanoz kurabiye karışımını hazırladım. Yalnız elimdeki hemen hemen bütün tariflerde aldığı kadar un lafı geçtiği için tarif bulmakta biraz zorlandım. En son, daha önce sitede de yayınladığım budaklı kurabiye tarifinde kadar kılıp, malzemeleri ölçerek kavanoza doldurdum.</p>
+<p>Malzemeleri kavanoza doldururken dikkat edilmesi gereken şey; önce toz olanları sonra da kuruyemiş, çikolata gibi daha taneli malzemeleri doldurmak. Çünkü; malzemelerin karışmadan katman katman görünmesi gerekiyor. Hatta esmer şeker kullanılan bir tarifiniz varsa, iki beyaz malzemenin arasına esmer şekeri dökmek daha güzel bir görünüm elde etmenizi sağlayacaktır. Tabi işlem tamamlandıktan sonra kavanozu fazla sarsmadan taşımalısınız.</p>
+<p>Ayrıca kavanozun ağzına kadar dolu olması da daha hoş bir görünüm sağlıyor. Benim kavanozum biraz büyük kaldı, ama malzemeleri karıştırmadan daha ufak bir kavanoza aktaramayacağım için bu şekilde bıraktım.</p>
+<p>Tarifi de bir karta yazıp kapağın altına yerleştirdim. Kavanozu da kurdela ile bağlayıp hediyeyi hazırlamış oldum. Arzu edilirse, tarif kartı kurdelaya da iliştirilebilir. Hatta kalıpla kesilecek bir kurabiye tarifini hazırladıysanız, minik bir kalıbı da kurdelaya bağlayabilirsiniz.</p>
+<p>Bu hediyeyi ben de, hediye ettiğim arkadaşım da çok beğendik. Umarım siz de basit ama dikkat çekici bu hediye fikrini beğenirsiniz&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/11/kavanozda-hediye/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -228,7 +228,6 @@ Her kup için bir adet kedidili ikiye bölünerek nescafeli karışımla ıslat�
 		<item>
 		<title>çay saati</title>
 		<link>/2014/03/20/cay-saati/</link>
-		<comments>/2014/03/20/cay-saati/#respond</comments>
 		<pubDate>Thu, 20 Mar 2014 12:13:24 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Menüler]]></category>
@@ -252,13 +251,10 @@ incirli kurabiye<br />
 ceviz kurabiye<br />
 kupta tiramisu</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/20/cay-saati/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Annelik üzerine birkaç mesele&#8230;</title>
 		<link>/2014/03/20/annelik-uzerine-birkac-mesele/</link>
-		<comments>/2014/03/20/annelik-uzerine-birkac-mesele/#respond</comments>
 		<pubDate>Thu, 20 Mar 2014 12:03:45 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Muhtelif Konular]]></category>
@@ -283,13 +279,10 @@ kupta tiramisu</p>
 <p style="text-align: justify;">
 <p style="text-align: justify;">Bu yazı kendi açımdan bir özeleştiri yazısı aslında. Kendimde bu farkındalığı canlı tutmak istiyorum. Bu sefer anneliğin ve bebeğin en güzel zamanlarının tadını çıkarmaya odaklanmak istiyorum. Uykusuz gecelere, az gelen süte, eve tıkılıp kalmaya ah vah edip güzel anları kaçırmak istemiyorum. Çünkü günler çok hızlı akıp geçiyor, anne olmak çok büyük bir nimet ve ben şikayet edip şükürsüz olmaktan korkuyorum.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/20/annelik-uzerine-birkac-mesele/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Annelik üzerine birkaç mesele&#8230;</title>
 		<link>/2014/03/20/annelik-uzerine-birkac-mesele/</link>
-		<comments>/2014/03/20/annelik-uzerine-birkac-mesele/#respond</comments>
 		<pubDate>Thu, 20 Mar 2014 12:03:45 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Muhtelif Konular]]></category>
@@ -314,13 +307,10 @@ kupta tiramisu</p>
 <p style="text-align: justify;">
 <p style="text-align: justify;">Bu yazı kendi açımdan bir özeleştiri yazısı aslında. Kendimde bu farkındalığı canlı tutmak istiyorum. Bu sefer anneliğin ve bebeğin en güzel zamanlarının tadını çıkarmaya odaklanmak istiyorum. Uykusuz gecelere, az gelen süte, eve tıkılıp kalmaya ah vah edip güzel anları kaçırmak istemiyorum. Çünkü günler çok hızlı akıp geçiyor, anne olmak çok büyük bir nimet ve ben şikayet edip şükürsüz olmaktan korkuyorum.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/20/annelik-uzerine-birkac-mesele/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Yeşil Zeytin Salatası</title>
 		<link>/2014/03/08/yesil-zeytin-salatasi/</link>
-		<comments>/2014/03/08/yesil-zeytin-salatasi/#respond</comments>
 		<pubDate>Sat, 08 Mar 2014 10:00:44 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Salatalar]]></category>
@@ -357,9 +347,7 @@ sumak<br />
 <p>Zeytinler dilimlenip, kıyılmış yeşilliklerle karıştırılır. Ceviz de ilave edilir. Sos için olan malzemeler de karıştırılıp salataya dökülür. Mısırla süslenen salata soğuk olarak servis edilir.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/08/yesil-zeytin-salatasi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>çay menüsü</title>
 		<link>/2014/03/07/cay-menusu-4-2/</link>

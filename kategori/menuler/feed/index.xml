@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -28,7 +28,6 @@
 	<item>
 		<title>çay saati</title>
 		<link>/2014/03/20/cay-saati/</link>
-		<comments>/2014/03/20/cay-saati/#respond</comments>
 		<pubDate>Thu, 20 Mar 2014 12:13:24 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Menüler]]></category>
@@ -52,8 +51,34 @@ incirli kurabiye<br />
 ceviz kurabiye<br />
 kupta tiramisu</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/20/cay-saati/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+			</item>
+		<item>
+		<title>çay menüsü</title>
+		<link>/2014/03/07/cay-menusu-4/</link>
+		<comments>/2014/03/07/cay-menusu-4/#comments</comments>
+		<pubDate>Fri, 07 Mar 2014 09:14:18 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Menüler]]></category>
+		<category><![CDATA[çay menüsü]]></category>
+		<category><![CDATA[sofra]]></category>
+
+		<guid isPermaLink="false">/?p=1371</guid>
+		<description><![CDATA[Şubat ayında arkadaşlarım Neslihan, Arzu ve tatlı çocukları Alara ve Asaf bebeğimi görmek için gelip evimizi şenlendirdiler. Bu güzel günün menüsü ise şöyleydi; Top top köfte, Domates soslu mantarlı arpa şehriye pilavı, Peynirli midye börek, Yeşil salata, Zeytinyağlı ayvalı kereviz, Ispanaklı rulo salata, ve Karamelli muhallebi, Islak kurabiye..]]></description>
+				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/12551125595/"><img alt="Untitled" src="http://farm3.staticflickr.com/2878/12551125595_9a94db93b7_c.jpg" width="600" height="800" /></a></p>
+<p>Şubat ayında arkadaşlarım Neslihan, Arzu ve tatlı çocukları Alara ve Asaf bebeğimi görmek için gelip evimizi şenlendirdiler. Bu güzel günün menüsü ise şöyleydi;</p>
+<p>Top top köfte,<br />
+Domates soslu mantarlı arpa şehriye pilavı,<br />
+Peynirli midye börek,<br />
+Yeşil salata,<br />
+Zeytinyağlı ayvalı kereviz,<br />
+Ispanaklı rulo salata,<br />
+ve<br />
+Karamelli muhallebi,<br />
+Islak kurabiye..<br />
+<a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/12551449763/"><img alt="Untitled" src="http://farm8.staticflickr.com/7291/12551449763_77b8d8eed2_c.jpg" width="600" height="800" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/07/cay-menusu-4/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>çay menüsü</title>
@@ -81,34 +106,6 @@ Islak kurabiye..<br />
 <a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/12551449763/"><img alt="Untitled" src="http://farm8.staticflickr.com/7291/12551449763_77b8d8eed2_c.jpg" width="600" height="800" /></a></p>
 ]]></content:encoded>
 			<wfw:commentRss>/2014/03/07/cay-menusu-4-2/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>çay menüsü</title>
-		<link>/2014/03/07/cay-menusu-4/</link>
-		<comments>/2014/03/07/cay-menusu-4/#comments</comments>
-		<pubDate>Fri, 07 Mar 2014 09:14:18 +0000</pubDate>
-		<dc:creator><![CDATA[Melda]]></dc:creator>
-				<category><![CDATA[Menüler]]></category>
-		<category><![CDATA[çay menüsü]]></category>
-		<category><![CDATA[sofra]]></category>
-
-		<guid isPermaLink="false">/?p=1371</guid>
-		<description><![CDATA[Şubat ayında arkadaşlarım Neslihan, Arzu ve tatlı çocukları Alara ve Asaf bebeğimi görmek için gelip evimizi şenlendirdiler. Bu güzel günün menüsü ise şöyleydi; Top top köfte, Domates soslu mantarlı arpa şehriye pilavı, Peynirli midye börek, Yeşil salata, Zeytinyağlı ayvalı kereviz, Ispanaklı rulo salata, ve Karamelli muhallebi, Islak kurabiye..]]></description>
-				<content:encoded><![CDATA[<p><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/12551125595/"><img alt="Untitled" src="http://farm3.staticflickr.com/2878/12551125595_9a94db93b7_c.jpg" width="600" height="800" /></a></p>
-<p>Şubat ayında arkadaşlarım Neslihan, Arzu ve tatlı çocukları Alara ve Asaf bebeğimi görmek için gelip evimizi şenlendirdiler. Bu güzel günün menüsü ise şöyleydi;</p>
-<p>Top top köfte,<br />
-Domates soslu mantarlı arpa şehriye pilavı,<br />
-Peynirli midye börek,<br />
-Yeşil salata,<br />
-Zeytinyağlı ayvalı kereviz,<br />
-Ispanaklı rulo salata,<br />
-ve<br />
-Karamelli muhallebi,<br />
-Islak kurabiye..<br />
-<a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/12551449763/"><img alt="Untitled" src="http://farm8.staticflickr.com/7291/12551449763_77b8d8eed2_c.jpg" width="600" height="800" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>/2014/03/07/cay-menusu-4/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>

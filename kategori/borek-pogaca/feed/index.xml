@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -196,7 +196,6 @@ harcı için;<br />
 		<item>
 		<title>Kabaklı Kek</title>
 		<link>/2012/09/07/kabakli-kek/</link>
-		<comments>/2012/09/07/kabakli-kek/#respond</comments>
 		<pubDate>Fri, 07 Sep 2012 07:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Börekler & Poğaçalar]]></category>
@@ -224,13 +223,10 @@ tuz<br />
 <p><strong>YAPILIŞI</strong><br />
 Bütün malzemeler karıştırılıp yağlanmış bir fırın kabına alınarak üzerine susam serpilir. 180 derecelik fırında üzeri kızarana kadar pişirilir.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/09/07/kabakli-kek/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Kabaklı Kek</title>
 		<link>/2012/09/07/kabakli-kek/</link>
-		<comments>/2012/09/07/kabakli-kek/#respond</comments>
 		<pubDate>Fri, 07 Sep 2012 07:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Börekler & Poğaçalar]]></category>
@@ -257,9 +253,7 @@ tuz<br />
 <p><strong>YAPILIŞI</strong><br />
 Bütün malzemeler karıştırılıp yağlanmış bir fırın kabına alınarak üzerine susam serpilir. 180 derecelik fırında üzeri kızarana kadar pişirilir.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2012/09/07/kabakli-kek/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Yufkadan Çıtır Börek</title>
 		<link>/2012/05/19/yufkadan-citir-borek/</link>

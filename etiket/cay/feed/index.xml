@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -28,7 +28,6 @@
 	<item>
 		<title>çay saati</title>
 		<link>/2014/03/20/cay-saati/</link>
-		<comments>/2014/03/20/cay-saati/#respond</comments>
 		<pubDate>Thu, 20 Mar 2014 12:13:24 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Menüler]]></category>
@@ -52,9 +51,7 @@ incirli kurabiye<br />
 ceviz kurabiye<br />
 kupta tiramisu</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/20/cay-saati/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Annemin Çay Daveti</title>
 		<link>/2010/06/08/annemin-cay-daveti/</link>

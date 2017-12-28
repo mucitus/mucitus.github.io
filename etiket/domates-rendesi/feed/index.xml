@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -28,7 +28,6 @@
 	<item>
 		<title>25. gün &#8211; Sirkeli Patlıcan</title>
 		<link>/2010/09/05/25-gun-sirkeli-patlican/</link>
-		<comments>/2010/09/05/25-gun-sirkeli-patlican/#respond</comments>
 		<pubDate>Sat, 04 Sep 2010 22:57:19 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Tarifler]]></category>
@@ -59,8 +58,6 @@ Kaynayana kadar orta ateşte, kaynadıktan sonra da 40-45 dakika pişirilir.</p>
 <p>Sirke ve ezilmiş sarımsaklar karıştırılıp pişmiş olan patlıcanların üzerine dökülür ve 5 dakika daha pişirilir.</p>
 <p>Yemek tenceresinde soğutulduktan sonra maydonoz ile süslenerek servis edilir.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2010/09/05/25-gun-sirkeli-patlican/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

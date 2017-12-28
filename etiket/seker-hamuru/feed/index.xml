@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -28,7 +28,6 @@
 	<item>
 		<title>Butik Kurabiyeler</title>
 		<link>/2011/01/16/butik-kurabiyeler/</link>
-		<comments>/2011/01/16/butik-kurabiyeler/#respond</comments>
 		<pubDate>Sun, 16 Jan 2011 12:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Muhtelif Konular]]></category>
@@ -47,9 +46,7 @@
 <p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5360093134/"><img class="aligncenter" src="http://farm6.static.flickr.com/5130/5360093134_45a00a5b51.jpg" alt="" width="375" height="500" /></a></p>
 <p>Sipariş vermek için www.<a href="http://www.hobiriks.com/">hobiriks</a>.com adresinden ayrıntılı bilgi alabilirsiniz.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2011/01/16/butik-kurabiyeler/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Yeni Doğan Kurabiyeleri</title>
 		<link>/2009/02/22/yeni-dogan-kurabiyeleri/</link>

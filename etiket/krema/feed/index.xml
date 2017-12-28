@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -145,7 +145,6 @@ Orta boy bir cam kap ıslatılıp, tabanına hindistancevizi serpilir.<br />
 		<item>
 		<title>Ispanaklı Tart</title>
 		<link>/2010/03/08/ispanakli-tart/</link>
-		<comments>/2010/03/08/ispanakli-tart/#respond</comments>
 		<pubDate>Mon, 08 Mar 2010 19:45:09 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Börekler & Poğaçalar]]></category>
@@ -161,9 +160,7 @@ Orta boy bir cam kap ıslatılıp, tabanına hindistancevizi serpilir.<br />
 <p>Ispanaklı tart için, önce <a href="/2006/03/27/kabakli-tart/">kabaklı tart</a>ın hamurunu tart kalıbında pişirdim. Daha sonra, önceden soğanla birlikte kavurduğum ıspanakları krema ile karıştırıp kalıptan çıkardığım hamurun üzerine döktüm. Üzerine de süslemek için kavurduğum dolmalık fıstıkları serptim.</p>
 <p>Tart kalıbınız yoksa, aynı kabaklı tartta olduğu gibi hamuru borcama veya kelepçeli kalıba yayabilir ve üzerine de kavurduğunuz ıspanakları döküp öyle fırına verebilirsiniz. Hatta dolmalık fıstık yerine, üzerini tamamen kaşar peynir rendesiyle kaplayabilirsiniz. Annem kaşar peynirle daha güzel olcağını söylüyor. Ben bir sonraki denememde öyle yapmayı düşünüyorum.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2010/03/08/ispanakli-tart/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Badem Çorbası</title>
 		<link>/2009/11/02/badem-corbasi/</link>

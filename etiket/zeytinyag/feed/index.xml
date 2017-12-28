@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -28,7 +28,6 @@
 	<item>
 		<title>Yeşil Zeytin Salatası</title>
 		<link>/2014/03/08/yesil-zeytin-salatasi/</link>
-		<comments>/2014/03/08/yesil-zeytin-salatasi/#respond</comments>
 		<pubDate>Sat, 08 Mar 2014 10:00:44 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Salatalar]]></category>
@@ -65,9 +64,7 @@ sumak<br />
 <p>Zeytinler dilimlenip, kıyılmış yeşilliklerle karıştırılır. Ceviz de ilave edilir. Sos için olan malzemeler de karıştırılıp salataya dökülür. Mısırla süslenen salata soğuk olarak servis edilir.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2014/03/08/yesil-zeytin-salatasi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Zeytinyağlı Semizotu Yemeği</title>
 		<link>/2012/08/30/zeytinyagli-semizotu-yemegi/</link>

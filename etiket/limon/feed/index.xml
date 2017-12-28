@@ -16,7 +16,7 @@
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
@@ -163,7 +163,6 @@ Haşlanan börülce, derin bir kaseye alınıp, yeşillikler ve biberler ilave e
 		<item>
 		<title>Üzümlü Kurabiye</title>
 		<link>/2005/05/05/uzumlu-kurabiye/</link>
-		<comments>/2005/05/05/uzumlu-kurabiye/#respond</comments>
 		<pubDate>Thu, 05 May 2005 12:51:00 +0000</pubDate>
 		<dc:creator><![CDATA[Melda]]></dc:creator>
 				<category><![CDATA[Tarifler]]></category>
@@ -187,8 +186,6 @@ Haşlanan börülce, derin bir kaseye alınıp, yeşillikler ve biberler ilave e
 <p><span style="font-family: trebuchet ms"></span><strong><span style="font-family: trebuchet ms">YAPILIŞI<br />
 </span></strong><span style="font-family: trebuchet ms">Bütün malzemeler karıştırılıp hamur yapılır. Yuvarlak şekil verilir. Üzerine yumurta sarısı sürülür. Ilık fırında pişirilir.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/2005/05/05/uzumlu-kurabiye/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
