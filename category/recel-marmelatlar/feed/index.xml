@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reçel &amp; Marmelatlar &#8211; Yemek Zevki</title>
+	<atom:link href="/kategori/recel-marmelatlar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Melda&#039;nın mutfağından tarifler...</description>
+	<lastBuildDate>Thu, 12 Mar 2015 12:11:58 +0000</lastBuildDate>
+	<language>tr-TR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/10/cropped-yzhxx-1-32x32.gif</url>
+	<title>Reçel &amp; Marmelatlar &#8211; Yemek Zevki</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ayva Marmelatı</title>
+		<link>/2010/12/28/ayva-marmelati/</link>
+		<comments>/2010/12/28/ayva-marmelati/#comments</comments>
+		<pubDate>Tue, 28 Dec 2010 12:39:11 +0000</pubDate>
+		<dc:creator><![CDATA[Melda]]></dc:creator>
+				<category><![CDATA[Reçel & Marmelatlar]]></category>
+		<category><![CDATA[Tarifler]]></category>
+		<category><![CDATA[ayva]]></category>
+		<category><![CDATA[kahvaltı]]></category>
+		<category><![CDATA[marmelat]]></category>
+
+		<guid isPermaLink="false">http://yemekzevki.net/?p=803</guid>
+		<description><![CDATA[Yine ayvalı bir tarifle devam ediyorum. Tarif Leman Cılızoğlu&#8217;nun kitabından, hazırlayan da annem.. MALZEMELER 1 kg. ayva 1 kg. şeker 1 limonun suyu YAPILIŞI Ayvalar yıkanıp kabukları soyulduktan sonra dilimlere ayrılıp çekirdek evleri temizlenir. Tencerede az bir miktar su ile kolayca ezilinceye kadar haşlanır. Suyu süzülüp süzgeç veya blendırdan geçirilir. Ayva ezmesi tekrar tencereye alınıp, &#8230; <p class="link-more"><a href="/2010/12/28/ayva-marmelati/" class="more-link">Okumaya devam et<span class="screen-reader-text"> "Ayva Marmelatı"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5300038742/"><img class="aligncenter" src="http://farm6.static.flickr.com/5208/5300038742_6bfd7973b7.jpg" alt="" width="333" height="500" /></a></p>
+<p>Yine ayvalı bir tarifle devam ediyorum. Tarif Leman Cılızoğlu&#8217;nun kitabından, hazırlayan da annem..</p>
+<p><strong>MALZEMELER</strong></p>
+<p>1 kg. ayva<br />
+1 kg. şeker<br />
+1 limonun suyu</p>
+<p><strong>YAPILIŞI</strong></p>
+<p>Ayvalar yıkanıp kabukları soyulduktan sonra dilimlere ayrılıp çekirdek evleri temizlenir.<br />
+Tencerede az bir miktar su ile kolayca ezilinceye kadar haşlanır.<br />
+Suyu süzülüp süzgeç veya blendırdan geçirilir.<br />
+Ayva ezmesi tekrar tencereye alınıp, üzerine şeker ilave edilir.<br />
+Orta hararetli ateşte boza kıvamına gelene kadar karıştırarak pişirilir.<br />
+Kıvamının olmasına yakın, limon suyu eklenip, tekrar üç-dört taşım kaynatılır.<br />
+Ateşten indirilip, köpüğü alınır.<br />
+Sıcakken kavanozlara doldurulur ve soğuduktan sonra kavanozun ağzı kapatılıp, serin bir yerde saklanır.</p>
+<p style="text-align: center;">&#8212;&#8211;o&#8212;&#8211;</p>
+<p>Bu güzel kahvaltılık tarifini vermişken pazar kahvaltısı için denediğim lor salatasından bahsetmek istiyorum. Fotoğrafını çekemedim ama çektiğim zaman muhakkak tekrar paylaşacağım. O zamana kadar siz de bu güzel lezzetten mahrum kalmak istemiyorsanız sevgili <a href="http://www.beyazevim.com/yemekler/salatalar/283-lor-salatasi.html">sema&#8217;nın sitesi</a>ne bir uğrayın derim. Ben soğansız yaptım, eminim soğanlı da güzel oluyordur.</p>
+<p style="text-align: center;"><a title="Untitled by melda, on Flickr" href="http://www.flickr.com/photos/melda/5300039020/"><img class="aligncenter" src="http://farm6.static.flickr.com/5006/5300039020_cfc5a39ed8.jpg" alt="" width="333" height="500" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/28/ayva-marmelati/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>
